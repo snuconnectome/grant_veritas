@@ -1,0 +1,61 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# Windows
+desktop.ini
+
+# Temporary files
+*.tmp
+*~
+~$*.doc*
+~$*.ppt*
+~$*.xls*
+
+# Office temp files
+.~lock.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*_backup
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Build outputs
+build/
+dist/
+*.out

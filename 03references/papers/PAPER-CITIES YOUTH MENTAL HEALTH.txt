@@ -1,0 +1,3377 @@
+Analysis
+
+Making cities mental health friendly for
+adolescents and young adults
+https://doi.org/10.1038/s41586-023-07005-4
+Received: 15 June 2022
+Accepted: 15 December 2023
+Published online: 21 February 2024
+Open access
+
+Pamela Y. Collins1 ✉, Moitreyee Sinha2, Tessa Concepcion3, George Patton4, Thaisa Way5,
+Layla McCay6, Augustina Mensa-Kwao1, Helen Herrman7,8, Evelyne de Leeuw9,
+Nalini Anand10, Lukoye Atwoli11, Nicole Bardikoff12, Chantelle Booysen13, Inés Bustamante14,
+Yajun Chen15, Kelly Davis16, Tarun Dua17, Nathaniel Foote18, Matthew Hughsam2,
+Damian Juma19, Shisir Khanal20, Manasi Kumar21,22, Bina Lefkowitz23,24, Peter McDermott25,
+Modhurima Moitra3, Yvonne Ochieng26, Olayinka Omigbodun27, Emily Queen1,
+Jürgen Unützer3, José Miguel Uribe-Restrepo28, Miranda Wolpert29 & Lian Zeitz30
+
+Check for updates
+
+Urban life shapes the mental health of city dwellers, and although cities provide
+access to health, education and economic gain, urban environments are often
+detrimental to mental health1,2. Increasing urbanization over the next three decades
+will be accompanied by a growing population of children and adolescents living in
+cities3. Shaping the aspects of urban life that influence youth mental health could have
+an enormous impact on adolescent well-being and adult trajectories4. We invited a
+multidisciplinary, global group of researchers, practitioners, advocates and young
+people to complete sequential surveys to identify and prioritize the characteristics
+of a mental health-friendly city for young people. Here we show a set of ranked
+characteristic statements, grouped by personal, interpersonal, community,
+organizational, policy and environmental domains of intervention. Life skills for
+personal development, valuing and accepting young people’s ideas and choices,
+providing safe public space for social connection, employment and job security,
+centring youth input in urban planning and design, and addressing adverse social
+determinants were priorities by domain. We report the adversities that COVID-19
+generated and link relevant actions to these data. Our findings highlight the need for
+intersectoral, multilevel intervention and for inclusive, equitable, participatory
+design of cities that support youth mental health.
+
+More than a decade ago, Galea posed the question “Can we improve mental health if we improve cities?”4. In the past two centuries, urbanization
+has shaped landscapes and lives, making it the “sentinel demographic
+shift” of our times4. The relationships between mental health status
+and the social, cultural and physical environment have been explored
+for at least as long; nineteenth-century researchers proposed environmental exposures as possible explanations of ‘insanity’5. Faris and Dunham’s classic 1930s study6 linked social disorganization and unstable
+communities to mental disorders. Two decades later, Leonard Duhl
+sought to create healthy societies through liveable cities, informing the
+World Health Organization’s Healthy Cities initiative7,8. The question
+remains pertinent today even as we recognize the multiple and complex forces that shape mental health9. Today we understand that urban
+environments influence a broad range of health outcomes for their
+
+populations, positively and negatively, and this impact is manifested
+unequally10. Opportunities for education and connection exist for some,
+whereas rising levels of urban inequality, violence, stressful racial or
+ethnic dynamics in urban neighbourhoods, exposure to environmental
+toxins, lack of green space, inadequate infrastructure and fear of displacement increase risk for poor mental health and disproportionately
+affect marginalized groups11. Disparate outcomes also pertain to distinct
+developmental stages, and the mental health of adolescents and young
+adults is particularly vulnerable to urban exposures.
+
+Adolescents, youth and urban mental health
+Young people under the age of 25 are the demographic group most
+likely to move to cities for educational and employment opportunities,
+
+Department of Mental Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA. 2citiesRISE, New York, NY, USA. 3Department of Global Health, University of Washington,
+Seattle, WA, USA. 4Centre for Adolescent Health, University of Melbourne, Melbourne, Victoria, Australia. 5Dumbarton Oaks, Harvard University, Washington, DC, USA. 6Centre for Urban Design
+and Mental Health, London, UK. 7Orygen, Melbourne, Victoria, Australia. 8University of Melbourne, Melbourne, Victoria, Australia. 9Ecole de Sante Publique, Universite de Montreal, Montreal,
+Quebec, Canada. 10Fogarty International Center, National Institutes of Health, Bethesda, MD, USA. 11Aga Khan University, Nairobi, Kenya. 12Grand Challenges Canada, Toronto, Ontario, Canada.
+13
+Good South Social Impact Enterprise, Durban, South Africa. 14Universidad Peruana Cayetano Heredia, Lima, Peru. 15Sun Yat Sen University, Guangzhou, China. 16Mental Health America, New
+York, NY, USA. 17World Health Organization, Geneva, Switzerland. 18The TruePoint Center, Boston, MA, USA. 19Healthy Brains Global Initiative, Nairobi, Kenya. 20Teach for Nepal, Kathmandu,
+Nepal. 21Department of Population Health, New York University Grossman School of Medicine, New York, NY, USA. 22University of Nairobi, Nairobi, Kenya. 23Sacramento County Board of
+Education, Sacramento, CA, USA. 24Lefkowitz Consulting, Sacramento, CA, USA. 25Fajara Associates, London, UK. 26Duke University, Durham, NC, USA. 27University of Ibadan, Ibadan, Nigeria.
+28
+Pontificia Universidad Javeriana, Bogotá, Colombia. 29Wellcome Trust, London, UK. 30Climate Mental Health Network, Annapolis, MD, USA. ✉e-mail: pamela.collins@jhu.edu
+1
+
+Nature | Vol 627 | 7 March 2024 | 137
+
+Analysis
+and by 2050 cities will be home to 70% of the world’s children3. Cities
+concentrate innovation3 and have long been considered the consummate source of skills, resources and talent12. They offer greater opportunities for health and economic development, education, employment,
+entertainment and social freedoms (that is, the ‘urban advantage’), but
+rapid urbanization also deepens disparities and exposes individuals to
+considerable adversity, placing their mental health at risk13. In fact, most
+evidence points to urban living as a risk factor for poorer mental health,
+yielding increased risk for psychosis, anxiety disorders and depression1,2. Adolescence and young adulthood, specifically, encompass a
+critical period of risk for the incidence of mental disorders: an estimated
+half of mental disorders evident before age 65 begin in adolescence and
+75% begin by age 24 (ref. 14). Mental disorders are the leading causes
+of disease burden among 10–24-year-olds worldwide15, responsible for
+an estimated 28.2 million disability-adjusted life years globally, with
+1 disability-adjusted life year being equivalent to a healthy year of life
+lost to the disability caused by mental disorders. Public awareness
+of these issues rose as the incidence of mental disorders and suicide
+increased in some countries among adolescents and young adults
+during the coronavirus pandemic16,17. Urban environments probably
+have a role in these processes.
+Fundamental to adolescents’ growth and development are their
+interactions with the complex urban environment: physical, political, economic, social and cultural18. Adolescents have a heightened
+sensitivity to context and social evaluation, and a stronger neural
+response to social exclusion, as well as to threat and reward stimuli19,
+and it is plausible that they may be particularly sensitive to social and
+environmental cues in the urban context, such as discrimination or
+violence. Discriminatory policies and norms are entrenched in many
+of the institutions with which young people interact (for example,
+schools, housing, justice and policing), and minoritized youth may
+experience the emotional and mental health consequences20. In fact,
+in settings of structural inequality (for example, high neighbourhood
+poverty and unemployment), young people are at greater risk for low
+self-efficacy and feelings of powerlessness and depression21. Social
+cohesion and collective efficacy can reduce the effects of concentrated
+disadvantage and nurture social and emotional assets among young
+people, families and their networks21.
+At present, the world’s largest population of adolescents and young
+adults so far is growing up amid the sequelae of a tenacious pandemic,
+rapid population growth in urban centres and increasing urbanization, demanding an urgent response to support youth mental health22.
+Investing in adolescent well-being is said to yield a triple dividend
+through actions that reduce mortality and disability in adolescence,
+prolong healthy life in adulthood, and protect the health of the next generation by educating and strengthening the health of young parents23.
+Interventions in urban settings that align with developmental needs
+of adolescents and young adults could remediate insults from early
+life and establish healthy behaviours and trajectories for adult life19,24,
+potentially averting chronic conditions such as human immunodeficiency virus (HIV) and the associated mental health, social and physical sequelae25. In fact, investment in a package of adolescent mental
+health interventions can yield a 24-fold return in health and economic
+benefits26. At the societal level, shaping the aspects of urban life that
+influence youth mental health—through services, social policies and
+intentional design—could have an enormous impact4. Proposals for
+‘restorative urbanism’ that centre mental health, wellness and quality of
+life in urban design may move cities in the direction of moulding urban
+environments for better adolescent health27,28. Young people, who contribute to the creativity of urban environments and drive movements
+for social change29, have a central part to play in this transformation.
+Mental Health Friendly Cities, a global multi-stakeholder initiative
+led by citiesRISE, mobilizes youth-driven action and systems reform to
+promote and sustain the mental health and well-being of young people
+in cities around the world30,31 (Supplementary Information). To guide
+138 | Nature | Vol 627 | 7 March 2024
+
+transformative actions that will enable cities to promote and sustain
+adolescent and youth mental health, we studied global priorities for
+urban adolescent mental health. One aim of this study is to contribute
+data-driven insights that can be used to unite several sectors in cities to act within and across their domains in favour of mental health
+promotion and care that is responsive to the needs of young people.
+To that end, we administered a series of linked surveys that permitted the influence of ideas from young people and multidisciplinary
+domain experts through an anonymous sequential process, following
+established methods for research priority setting32.
+
+Framework and top-ranked recommendations
+To determine the elements of an urban landscape that would support
+mental health for adolescents and youth and would amplify their voices,
+we recruited a panel of 518 individuals from 53 countries to participate
+in a series of three digitally administered surveys that began in April
+2020 (Table 1). Figure 1 shows the panel participation at each round.
+In survey 1, panellists responded to the open-ended question: “What
+are the characteristics of a mental health-friendly city for young people?”. Analysis of survey 1 data produced 134 statements about mental
+health-friendly cities for young people (Methods). In survey 2, participants selected their preferred 40 of the 134 statements. They were also
+presented with a second question related to the influence of the COVID19 pandemic on their ideas about youth well-being in cities. In survey
+3, we categorized survey 2 statements by socioecological domains
+(Fig. 2) and asked panellists to rank-list their preferred statements in
+each domain. Before ranking, panellists were required to choose one
+of three framings that informed their selected ranking: immediacy of
+impact on youth mental health; ability to help youth thrive in cities;
+and ease or feasibility of implementation.
+We present the findings of the third survey within a socioecological
+model (Figs. 3–5) because of this model’s relevance to the combination
+of social and environmental exposures in an urban setting and their
+interaction with the developing adolescent33. Bronfenbrenner’s model
+begins by recognizing that young people’s personal experiences and
+development are shaped by their interactions with the people around
+them34; that is, they react to and act on their immediate environment
+of familial and peer relationships (microlevel). These interpersonal
+relationships are also influenced by neighbourhood and community
+dynamics and exposure to institutions and policies (mesolevel). These,
+in turn, are nested within the organizational, political, historical, cultural (for example, values, norms and beliefs) and physical environments (macrolevel) whose interplay directly or indirectly affects the
+adolescent’s mental health and well-being. A high court ruling (policy
+environment) could have direct or indirect effects on the community,
+household and personal well-being of a young person seeking asylum.
+The socioecological framework encompasses the dynamic relationships of an individual with the social environment.
+
+The characteristics
+We grouped 37 city characteristics across 6 socioecological domains:
+personal, interpersonal, community, organizational, policy and environmental. Figures 3–5 show the mean ranking for each framing and
+the total mean ranking averaged across frames. We show, for each
+characteristic statement, the number and percentage of panellists
+who ranked it highest. The five characteristics in the personal domain
+centre on factors that enable healthy emotional maturation for young
+people, future orientation and self-reflexivity. Most panellists (53%)
+ranked these characteristics according to immediacy of impact on
+youth mental health in cities, and mean rankings were identical to
+those linked to ability to help youth thrive in cities. The characteristic
+that describes prioritizing teaching life skills, providing opportunities
+for personal development and providing resources that allow young
+people to flourish rose to the top mean rank for each frame and was
+
+Table 1 | Participant demographics for survey panellists and retention data over three sequential surveys
+Overall n (%)
+
+S1 n (%)
+
+S2 n (%)
+
+S3 n (%)
+
+518
+
+484 (93.4%)
+
+303 (58.5%)
+
+291 (56.2%)
+
+14–17 years
+
+3 (0.6%)
+
+3 (0.6%)
+
+0 (0%)
+
+0 (0%)
+
+18–24 years
+
+89 (17.2%)
+
+82 (15.8%)
+
+43 (8.3%)
+
+42 (8.1%)
+
+25–35 years
+
+235 (45.4%)
+
+221 (42.7%)
+
+116 (22.4%)
+
+107 (20.7%)
+
+>35 years
+
+186 (35.9%)
+
+178 (34.4%)
+
+143 (27.6%)
+
+140 (27.0%)
+
+Missing
+
+5 (1.0%)
+
+34 (6.6%)
+
+216 (41.7%)
+
+229 (44.2%)
+
+Female
+
+285 (55.0%)
+
+270 (52.1%)
+
+175 (33.8%)
+
+166 (32.0%)
+
+Male
+
+208 (40.2%)
+
+196 (37.8%)
+
+116 (22.4%)
+
+112 (21.6%)
+
+Non-binary
+
+2 (0.4%)
+
+2 (0.4%)
+
+1 (0.2%)
+
+1 (0.2%)
+
+Missing
+
+23 (4.4%)
+
+50 (9.7%)
+
+226 (43.6%)
+
+239 (46.1%)
+
+Educator
+
+181 (34.9%)
+
+169 (32.6%)
+
+89 (17.2%)
+
+81 (15.6%)
+
+Researcher
+
+150 (29.0%)
+
+146 (28.2%)
+
+111 (21.4%)
+
+103 (19.9%)
+
+Programme manager
+
+103 (19.9%)
+
+101 (19.5%)
+
+66 (12.7%)
+
+64 (12.4%)
+
+Advocate
+
+83 (16.0%)
+
+81 (15.6%)
+
+61 (11.8%)
+
+58 (11.2%)
+
+Student
+
+79 (15.3%)
+
+73 (14.1%)
+
+43 (8.3%)
+
+40 (7.7%)
+
+Clinician
+
+78 (15.1%)
+
+73 (14.1%)
+
+55 (10.6%)
+
+53 (10.2%)
+
+Other
+
+66 (12.7%)
+
+62 (12.0%)
+
+37 (7.1%)
+
+39 (7.5%)
+
+Activist
+
+44 (8.5%)
+
+43 (8.3%)
+
+27 (5.2%)
+
+26 (5.0%)
+
+Civil servant
+
+17 (3.3%)
+
+17 (3.3%)
+
+11 (2.1%)
+
+10 (1.9%)
+
+Policymaker
+
+15 (2.9%)
+
+15 (2.9%)
+
+11 (2.1%)
+
+11 (2.1%)
+
+Missing
+
+0 (0%)
+
+34 (6.6%)
+
+215 (41.5%)
+
+227 (43.8%)
+
+Education
+
+186 (35.9%)
+
+175 (33.8%)
+
+87 (16.8%)
+
+81 (15.6%)
+
+Mental health or substance use
+
+184 (35.5%)
+
+178 (34.4%)
+
+132 (25.5%)
+
+131 (25.3%)
+
+Student
+
+97 (18.7%)
+
+88 (17.0%)
+
+57 (11.0%)
+
+53 (10.2%)
+
+Health care
+
+87 (16.8%)
+
+84 (16.2%)
+
+64 (12.4%)
+
+61 (11.8%)
+
+Youth advocacy
+
+79 (15.3%)
+
+79 (15.3%)
+
+47 (9.1%)
+
+51 (9.8%)
+
+Adolescent development
+
+65 (12.5%)
+
+65 (12.5%)
+
+44 (8.5%)
+
+43 (8.3%)
+
+Other
+
+55 (10.6%)
+
+52 (10.0%)
+
+40 (7.7%)
+
+38 (7.3%)
+
+Technology
+
+29 (5.6%)
+
+28 (5.4%)
+
+17 (3.3%)
+
+15 (2.9%)
+
+Built environment
+
+23 (4.4%)
+
+21 (4.1%)
+
+19 (3.7%)
+
+16 (3.1%)
+
+Not working at present
+
+20 (3.9%)
+
+19 (3.7%)
+
+10 (1.9%)
+
+9 (1.7%)
+
+Urban planning
+
+17 (3.3%)
+
+16 (3.1%)
+
+14 (2.7%)
+
+12 (2.3%)
+
+Urban development
+
+15 (2.9%)
+
+14 (2.7%)
+
+11 (2.1%)
+
+9 (1.7%)
+
+Criminal justice
+
+8 (1.5%)
+
+7 (1.4%)
+
+2 (0.4%)
+
+2 (0.4%)
+
+Big data
+
+7 (1.4%)
+
+7 (1.4%)
+
+4 (0.8%)
+
+3 (0.6%)
+
+Housing
+
+5 (1.0%)
+
+4 (0.8%)
+
+3 (0.6%)
+
+3 (0.6%)
+
+Missing
+
+0 (0%)
+
+34 (6.6%)
+
+215 (41.5%)
+
+227 (43.8%)
+
+Age
+
+Gender
+
+Role
+
+Domain
+
+‘Overall’ indicates all panellists who accepted the invitation to participate in the survey. Gender is based on an open text response; most panellists responded with terminology typically
+designating biological sex. ‘Woman’ and ‘man’ are conventional gender terms. Role and domain are multiple selection parameters.
+
+also ranked first in this domain by the largest number of panellists
+(n = 93). Notably, the characteristic that describes preparing youth to
+handle their emotions and overcome challenges was ranked first by 62
+panellists, although its mean rank was much lower.
+Characteristics in the interpersonal domain refer to young people’s
+interactions with others in the environment. Prioritized characteristics
+in this domain centred on relationships marked by acceptance and
+respect for young people and noted the value of intergenerational
+relationships. The top-ranked characteristic emphasized age friendliness and interactions that value the feelings and opinions of young
+
+people as well as safe and healthy relationships. In this domain, ranked
+means for characteristics framed according to immediacy of impact on
+youth mental health and ability to help youth thrive were the same for
+the top two characteristics. Notably, the two highest-ranked means for
+ease of implementation focused on opportunities for safe and healthy
+relationships and strengthening intergenerational relationships.
+Young people’s intrapersonal experiences and interpersonal relationships are nested within a system of community and organizational
+relationships. Study participants prioritized access to safe spaces for
+youth to gather and connect among the three characteristics in the
+Nature | Vol 627 | 7 March 2024 | 139
+
+Analysis
+Organizational structure
+• Scientific advisory board (n = 18)
+• Youth advisers (n = 8)
+• Executive committee (n = 5)
+
+Environment
+
+Invited to participate in survey panel (n = 825)
+• Invitees to advisory roles (n = 38)
+• Survey panel recommendations (n = 763)
+• Invited by RedCap link (n = 24)
+
+Accepted survey panel invitation (S1) (n = 518)
+• Completed part A (demographics) (n = 513)
+• Completed part B (Delphi question) (n = 484)
+
+Policy
+
+No response to survey
+invitation (n = 307)
+
+Organization
+
+Community
+Completed S2 (n = 303)
+• No response to S2 (n = 215)
+
+Completed S3 (n = 291)
+• No response to S3 (n = 227)
+
+Fig. 1 | Project leadership and recruitment procedures. The composition
+of the project leadership structures, sample recruitment and participation by
+each survey round are shown below. We invited 801 individuals to participate
+in the survey panel through recommendations and direct invitations from
+advisory board members. Participants recruited through snowball sampling
+received the Research Electronic Data Capture (REDCap) link (n = 24).
+Individuals who gave informed consent in REDCap were deemed to have
+accepted the survey panel invitation. S1, survey 1; S2, survey 2; S3, survey 3.
+
+domain of community, and rankings were identical for each framing.
+At the organizational domain, two characteristics shared high mean
+rankings: employment opportunities that allow job security and
+satisfaction and a responsive and supportive educational system.
+Health-care services and educational services were the organizations
+most frequently referenced in relation to youth mental health. Whereas
+employment opportunities ranked first in terms of feasibility of implementation, provision of youth-friendly health services ranked first for
+immediacy of impact on youth mental health. With the exception of
+the community and organizational domains, more panellists chose
+to frame their responses in terms of immediacy of impact on youth
+mental health.
+Of the four statements in the policy domain, the design and planning
+of cities with youth input and gender sensitivity ranked highest overall
+and was most frequently ranked first by panellists (30.68%). Promoting
+democratic cooperation and equal opportunity and anti-discrimination
+in all institutions received the highest mean rank for feasibility of implementation.
+The sixth socioecological domain lists 13 characteristics related to
+the social, cultural and physical environments. Addressing adverse
+social determinants of health for young people had the highest overall
+ranked mean; however, normalizing youth seeking mental health care
+and addressing service gaps ranked first when framed by feasibility of
+implementation and immediacy of impact. Having access to affordable
+basic amenities was most frequently ranked first in this domain by
+panellists, but panellist preferences were distributed across the list.
+
+COVID-19 and urban youth well-being
+Our data collection began in April 2020 during the COVID-19 pandemic, and by survey 2 (August 2020), most countries were experiencing the pandemic’s public health, social and economic effects. In
+light of this, we added an open-ended survey question to which 255
+participants responded “How has the COVID-19 pandemic changed
+your ideas about the wellbeing of young people in cities?” (Methods).
+Most respondents reported changes in perspective or new emphases
+on inequities as determinants of youth well-being and mental health,
+whereas nine reported that COVID-19 did not change their ideas. For
+one such respondent (in the >35 years age category), the pandemic
+140 | Nature | Vol 627 | 7 March 2024
+
+Interpersonal
+
+Personal
+
+Fig. 2 | Socioecological model. The socioecological model with six levels
+(personal, interpersonal, community, organization, policy and environment)
+that are used to categorize the characteristics of a mental health friendly city.
+
+merely confirmed the powerful effect of social vulnerabilities on risk
+and outcomes during an emergency: “COVID-19 has not changed my
+ideas about the wellbeing of young people in cities. I found that the
+young people in cities who did well during the lockdown period and
+the difficult period of the pandemic were those who were already doing
+well in terms of a rich social network, good interpersonal relations
+with family and friends, enjoyable work life, a close religious network,
+membership [in] a young people’s club so that they were able to stay
+connected via social media. Those who had access to food and essential
+commodities and those who knew they would return to school or work
+after the pandemic. Those who had access to good living conditions
+and some space for recreation also did well. ... The impact of COVID19
+was felt much more by those with existing mental health conditions,
+living in crowded slums, poverty, unemployment, who were uncertain
+about the next step”.
+Respondents highlighted losses young people experienced as a result
+of the pandemic. These included loss of the city as a place of opportunity; loss of jobs, familial and individual income, and economic stability;
+loss of a planned future and loss of certainty; loss of rites of passage
+of youth; loss of access to friends, social networks and social support;
+loss of access to quality education and to health care, especially mental
+health care and sexual and reproductive health services; loss of opportunities for psychological and social development; and loss of loved
+ones who died from COVID-19. We summarize the qualitative findings
+according to the socioecological framework. We present sample quotes
+in Table 2, along with the age category of the respondents (18–24, 25–35
+and >35) and actions for cities to take.
+
+Policy and environment
+Governance and equity. Freedom from discrimination and the value of
+equity were listed among the mental health-friendly city characteristics;
+however, respondents pointed out the dearth of equity that COVID-19
+unveiled (see the first quote in Table 2).
+Respondents observed that policy responses to COVID-19, including
+mandated curfews and quarantines, shifted the social and economic
+environment of cities. Young people and their families lost economic
+
+Percentage
+ranked
+number 1
+Characteristic of an MHFC
+for youth
+
+n (%)
+
+Immediacy of
+impact on the
+mental health of
+youth in cities
+
+Total
+Final
+rank
+
+Intrapersonal
+
+Mean
+
+s.d.
+
+Final
+rank
+
+n = 279
+
+Mean
+
+s.d.
+
+Ability to help
+youth thrive in
+cities
+Final
+rank
+
+n = 148 (53%)
+
+Mean
+
+Ease or
+feasibility of
+implementation
+s.d.
+
+Final
+rank
+
+n = 106 (38%)
+
+Mean
+
+s.d.
+
+n = 25 (9%)
+
+An MHFC for youth teaches life skills for young
+people, provides opportunities for personal
+development and provides resources that allow
+young people to flourish
+
+93
+(33.33)
+
+1
+
+2.33
+
+1.26
+
+1
+
+2.55
+
+1.23
+
+1
+
+2.19
+
+1.27
+
+1
+
+2.17
+
+1.25
+
+An MHFC for youth has resources for learning and
+reflecting on the natures of failure, perseverance,
+passion, resilience, empathy, compassion,
+mindfulness and joy
+
+57
+(20.43)
+
+2
+
+2.75
+
+1.34
+
+2
+
+2.67
+
+1.31
+
+2
+
+2.77
+
+1.32
+
+4
+
+3.05
+
+1.63
+
+An MHFC for youth respects the privacy and
+independence of young people as well as their
+independence and self-acceptance
+
+28
+(10.04)
+
+3
+
+2.75
+
+1.13
+
+3
+
+2.68
+
+1.14
+
+3
+
+2.84
+
+1.14
+
+2
+
+2.71
+
+1.12
+
+An MHFC for youth prepares youth to handle their
+emotions and overcome challenges
+
+62
+(22.22)
+
+4
+
+2.81
+
+1.42
+
+4
+
+2.70
+
+1.56
+
+4
+
+2.85
+
+1.29
+
+5
+
+3.18
+
+1.65
+
+An MHFC for youth enables young people to look
+forwards to future possibilities and aspirations
+
+25
+(8.96)
+
+5
+
+3.09
+
+1.28
+
+5
+
+3.16
+
+1.33
+
+5
+
+3.08
+
+1.29
+
+3
+
+2.85
+
+1.00
+
+Interpersonal
+
+n = 272
+
+n = 164 (60.3%)
+
+n = 82 (30.1%)
+
+n = 26 (9.6%)
+
+An MHFC for youth has an open-minded, age-friendly
+environment in which everyone values the feelings,
+opinions and choices of youth and accepts youth
+for their uniqueness
+
+88
+(32.35)
+
+1
+
+2.30
+
+1.15
+
+1
+
+2.06
+
+1.12
+
+1
+
+2.35
+
+1.16
+
+3
+
+2.72
+
+1.11
+
+An MHFC has opportunities for young people to
+engage in safe and healthy relationships
+
+70
+(25.74)
+
+2
+
+2.31
+
+1.06
+
+2
+
+2.34
+
+1.00
+
+2
+
+2.35
+
+1.09
+
+1
+
+1.96
+
+1.05
+
+An MHFC for youth has people who value self-respect
+and mutual respect, and who can accept critical analysis
+and constructive feedback
+
+60
+(22.06)
+
+3
+
+2.62
+
+1.17
+
+3
+
+2.48
+
+1.20
+
+4
+
+2.65
+
+1.19
+
+4
+
+2.83
+
+0.93
+
+An MHFC for youth has strong intergenerational
+relationships in which responsibility is shared
+between generations
+
+37
+(13.6)
+
+4
+
+2.73
+
+1.07
+
+4
+
+3.07
+
+0.96
+
+3
+
+2.63
+
+1.04
+
+2
+
+2.40
+
+1.27
+
+Community
+
+n = 266
+
+n = 99 (37.2%)
+
+n = 56 (21.1%)
+
+n = 111 (41.7%)
+
+An MHFC for youth has safe, free and public spaces
+for youth to gather, socialize, learn and connect
+with each other
+
+119
+(44.74)
+
+1
+
+1.80
+
+0.82
+
+1
+
+1.65
+
+0.81
+
+1
+
+1.78
+
+0.81
+
+1
+
+1.90
+
+0.83
+
+An MHFC for youth promotes youth participation and
+contribution to all areas of community life
+
+80
+(30.08)
+
+2
+
+1.90
+
+0.74
+
+2
+
+1.92
+
+0.72
+
+2
+
+1.87
+
+0.70
+
+2
+
+1.92
+
+0.79
+
+An MHFC for youth has opportunities for youth to
+serve their community
+
+57
+(21.43)
+
+3
+
+2.27
+
+0.83
+
+3
+
+2.39
+
+0.78
+
+3
+
+2.33
+
+0.85
+
+3
+
+2.17
+
+0.83
+
+Fig. 3 | Characteristics of a mental health-friendly city rank-ordered by
+socioecological domain (intrapersonal, interpersonal and community)
+and grouped by three framing conditions. Mean ranks and standard
+deviations (s.d.) values for each mental health-friendly city (MHFC) characteristic
+are reported grouped by socioecological level and three framings described
+in the Analysis: immediacy of impact; ability to help youth thrive in cities; and
+ease or feasibility of implementation. Overall ranks (along with mean and
+
+s.d. values) for the total sample are reported. n values in bold represent the
+number of participants responding for each domain; the percentages in bold
+represent the percentage of respondents per domain. The number and
+percentage of the sample that assigned the highest rank for each characteristic
+are also reported (column 2). The colour continuum from light blue to dark blue
+shows the highest ranked means in the lightest shades and the lower ranks in
+darker blue.
+
+opportunities, and cities also became less affordable during the pandemic. Participants explained that poverty and job loss worsened young
+people’s mental health and well-being and exposed youth to more risk
+factors because they needed to “hustle or work to place food on the
+table”. The loss of jobs also deprived youth of hope and underlined the
+economic inequities that some felt marked their generation more than
+previous ones. One participant (18–24) reported “Before, I used to think
+youths need someone who can understand them, empathize with them,
+but looking at the current scenario, I feel youths need security and a
+hopeful future too”. In some settings, these economic shifts resulted
+in an exodus from cities. A respondent (18–24) observed “Cities have
+always attracted young people but since the pandemic started the
+cost of living has gone from being a barrier to being another factor in
+encouraging young people to leave”.
+
+accessible. Participants alluded to cramped urban housing, crowded
+slums and poor housing infrastructure as stressors that the availability
+of safe public spaces alleviated. Green space in particular provided
+solace for young people. A participant (18–24) responded “It’s difficult
+when you’re confined to the limited space especially when you’re not
+closer to nature. Negative thoughts get you one way or another even
+if you try your best. Pandemic has caused more depression I reckon
+among the youths”. Accessible green space was highlighted as a need
+and an area for investing effort and policy change (Table 2). A desire
+for clean, youth-friendly green space for safe gathering and recreation
+was contrasted with unplanned land use and confined spaces, the latter
+of which some participants linked to greater risks for young people.
+
+Urban built environment. For those who remained in the city, the urban
+built environment could also offer respite from pandemic-related
+restrictions in mobility when green spaces and other open spaces were
+
+Community and organizations
+Respondents reported diminished access to education and health care,
+and a disregard of young people’s needs by decision-makers (Table 2).
+Some responses criticized the lack of forethought before the pandemic to budget for and provide supportive learning environments
+Nature | Vol 627 | 7 March 2024 | 141
+
+Analysis
+Percentage
+ranked
+number 1
+Characteristic of an MHFC
+for youth
+
+n (%)
+
+Immediacy of
+impact on the
+mental health of
+youth in cities
+
+Total
+Final
+rank
+
+Organization
+
+Mean
+
+s.d.
+
+Final
+rank
+
+n = 265
+
+Mean
+
+s.d.
+
+Ease or
+feasibility of
+implementation
+
+Ability to help
+youth thrive in
+cities
+Final
+rank
+
+n = 100 (37.7%)
+
+Mean
+
+s.d.
+
+Final
+rank
+
+n = 118 (44.5%)
+
+Mean
+
+s.d.
+
+n = 47 (17.7%)
+
+An MHFC for youth has employment opportunities
+appropriate for youth, and allows youth to work
+productively with job security and job satisfaction
+
+33
+(12.45)
+
+1
+
+3.94
+
+2.13
+
+3
+
+3.97
+
+2.10
+
+2
+
+3.98
+
+2.13
+
+1
+
+3.74
+
+2.27
+
+An MHFC for youth has an educational system that is
+progressive, supportive, interactive and culturally
+responsive
+
+55
+(20.75)
+
+2
+
+3.96
+
+2.45
+
+6
+
+4.54
+
+2.27
+
+1
+
+3.24
+
+2.43
+
+2
+
+4.07
+
+2.56
+
+An MHFC for youth has youth-friendly health services,
+including sexual and reproductive health services
+
+30
+(11.32)
+
+3
+
+4.24
+
+2.25
+
+1
+
+3.89
+
+2.31
+
+6
+
+4.57
+
+2.21
+
+5
+
+4.42
+
+2.09
+
+An MHFC for youth has culturally diverse counsellors,
+and psychosocial and pastoral (emotional, social and
+spiritual) support in every school
+
+43
+(16.23)
+
+4
+
+4.30
+
+2.44
+
+4
+
+4.13
+
+2.51
+
+4
+
+4.55
+
+2.33
+
+3
+
+4.18
+
+2.51
+
+An MHFC for youth has 24-h access to mental
+health services and a city crisis hotline
+
+29
+(10.94)
+
+5
+
+4.31
+
+2.23
+
+2
+
+3.95
+
+2.22
+
+5
+
+4.57
+
+2.19
+
+6
+
+4.72
+
+2.26
+
+An MHFC for youth trains youth as mental health
+advocates and providers of mental health first aid,
+provides formal peer support programmes and
+engages young people with lived experience of
+mental health problems
+
+29
+(10.94)
+
+6
+
+4.63
+
+2.25
+
+5
+
+4.50
+
+2.16
+
+7
+
+4.88
+
+2.34
+
+4
+
+4.36
+
+2.27
+
+An MHFC for youth has leadership opportunities for
+young people, including youth leaders in government
+and policy development
+
+27
+(10.19)
+
+7
+
+4.96
+
+2.41
+
+8
+
+5.35
+
+2.46
+
+3
+
+4.51
+
+2.35
+
+8
+
+5.00
+
+2.31
+
+An MHFC for youth has anti-bullying programmes and
+schools that are free from violence and bullying
+
+6
+(2.26)
+
+8
+
+5.03
+
+1.98
+
+7
+
+5.21
+
+1.90
+
+8
+
+4.90
+
+1.99
+
+7
+
+4.83
+
+2.16
+
+Policy
+
+n = 264
+
+n = 138 (52.3%)
+
+n = 62 (23.5%)
+
+n = 64 (24.2%)
+
+An MHFC for youth is designed and planned with
+youth input and attention to the needs of people
+of different genders
+
+81
+(30.68)
+
+1
+
+2.33
+
+1.15
+
+2
+
+2.41
+
+1.21
+
+1
+
+2.23
+
+1.14
+
+2
+
+2.47
+
+1.09
+
+An MHFC for youth has no discrimination; it is racially
+equitable, addresses environmental racism and
+promotes gender equality
+
+65
+(24.62)
+
+2
+
+2.43
+
+1.15
+
+1
+
+2.35
+
+1.18
+
+2
+
+2.39
+
+1.13
+
+3
+
+2.68
+
+1.12
+
+An MHFC for youth promotes democratic cooperation
+and equal opportunities for men and women in families,
+schools, state institutions and public spaces,
+rejecting all forms of discrimination and violence
+
+72
+(27.27)
+
+3
+
+2.45
+
+1.15
+
+3
+
+2.47
+
+1.11
+
+3
+
+2.56
+
+1.13
+
+1
+
+2.13
+
+1.22
+
+An MHFC for youth is based on human rights and has
+low incarceration and police violence
+
+33
+(12.5)
+
+4
+
+2.75
+
+1.03
+
+4
+
+2.71
+
+1.00
+
+4
+
+2.80
+
+1.04
+
+4
+
+2.69
+
+1.05
+
+Fig. 4 | Characteristics of a mental health-friendly city rank-ordered by socioecological domain (organization and policy) and grouped by three framing
+conditions. See the caption of Fig. 3 for details.
+
+for youth of all socioeconomic strata. The closure of schools generated stress for young people with the disruption of routines and
+opportunities to socialize. The pandemic generated greater uncertainty about job opportunities and future trajectories. At the same
+time, the pandemic brought opportunities to position youth as either
+contributors and leaders or detractors from community life. Young
+people reflected on how they experienced inclusion, empathy and
+exclusion, as well as opportunity for leadership. One respondent
+(25–35) commented “Our worlds are changing and with it many of
+our expectations about our education, work, personal interactions
+and relationships. Instead of being met with understanding, we are
+collectively positioned as transgressors of social distancing in a way
+that fails to understand that we are often incredibly vulnerable in this
+new world and left exposed by lack of infrastructure, service provision
+and support”.
+A respondent (18–24) noticed possibilities for involving young people in responses that could mitigate their numerous losses: “Given the
+opportunities and resources, young people can be a carrier of change
+and wellbeing if adults trust them enough to be”.
+
+Interpersonal domain
+Getting through difficult times required interpersonal supports:
+connectedness through in-person encounters in safe spaces, complemented by digital interactions. Multiple respondents emphasized
+the relationship between social isolation and poor mental health
+among city youth during the pandemic, noting the difficulty of making
+142 | Nature | Vol 627 | 7 March 2024
+
+meaningful connection during a time of physical isolation. Two young
+respondents (18–24) said the well-being of young people was linked to
+being “in a group of people”, which provides “safety and unity”, and to
+“inclusion, activity, and interpersonal relationships”. Space repeatedly
+emerged as a theme, as a conduit to facilitate social connection for
+young people without risk of COVID-19 transmission, violence, sexual
+abuse or exposure to drug use. Some participants called for greater
+investment in creating strong, safe virtual communities for young
+people; however, although participants identified virtual spaces as a
+resource for mental health support, a young panellist (18–24) remarked
+of social media and technology that “It isolated people, even though
+we have … ways of staying connected 24/7, we still feel lonely.”
+
+Personal
+Consistent with the lead mental health-friendly city characteristic in
+the personal domain (Figs. 3–5), the pandemic prompted realization
+of the need for personal skills development to support youth mental
+well-being. Some respondents expressed concern about the loss of
+social skills among young people as a result of confinement and an
+18–24-year-old commented “… Youths are in that stage where they
+need to be equipped with skills to promote positive mental wellbeing”. Another young person (18–24) remarked “Most of us do not really
+have the capacity and necessary skills to support each other when it
+comes to mental health”. Participants described the importance of
+being prepared for unpredictable circumstances and enabling youth
+to “manage themselves, their emotions, and wellbeing”.
+
+Percentage
+ranked
+number 1
+Characteristic of an MHFC
+for youth
+
+n (%)
+
+Immediacy of
+impact on the
+mental health of
+youth in cities
+
+Total
+Final
+rank
+
+Environment
+
+Mean
+
+s.d.
+
+Final
+rank
+
+n = 261
+
+Mean
+
+s.d.
+
+Ease or
+feasibility of
+implementation
+
+Ability to help
+youth thrive in
+cities
+Final
+rank
+
+n = 127 (48.7%)
+
+Mean
+
+s.d.
+
+Final
+rank
+
+n = 84 (32.2%)
+
+Mean
+
+s.d.
+
+n = 50 (19.2%)
+
+An MHFC for youth addresses adverse social
+determinants of health
+
+33
+(12.64)
+
+1
+
+3.56
+
+2.19
+
+2
+
+3.32
+
+2.00
+
+1
+
+3.41
+
+2.23
+
+5
+
+4.29
+
+2.24
+
+An MHFC for youth normalizes seeking mental
+health care and identifies and addresses
+mental health service gaps
+
+38
+(14.56)
+
+2
+
+3.74
+
+2.28
+
+1
+
+3.26
+
+2.21
+
+4
+
+4.13
+
+2.29
+
+1
+
+3.49
+
+2.23
+
+An MHFC for youth has access to affordable basic
+amenities such as healthy food, water, electricity,
+and stable internet for families and young people
+
+46
+(17.62)
+
+3
+
+3.8
+
+2.26
+
+3
+
+3.77
+
+2.17
+
+3
+
+3.88
+
+2.35
+
+2
+
+3.63
+
+2.25
+
+An MHFC for youth is affordable to live in and has
+safe, supportive, inclusive, and affordable housing
+
+18
+(6.9)
+
+4
+
+4.03
+
+2.03
+
+5
+
+4.43
+
+2.33
+
+2
+
+3.77
+
+1.90
+
+3
+
+4.13
+
+1.82
+
+An MHFC for youth is close to nature and has lots of
+green and blue spaces that are freely accessible, as
+well as youth-friendly public parks and resting areas
+
+17
+(6.51)
+
+5
+
+4.42
+
+2.34
+
+8
+
+4.47
+
+2.22
+
+5
+
+4.35
+
+2.45
+
+7
+
+4.52
+
+2.30
+
+An MHFC for youth addresses the entire continuum of
+mental health care and focuses on prevention of
+mental illnesses by identifying risk factors for mental
+health and actively checking on the mental health
+of its citizens
+
+26
+(9.96)
+
+6
+
+4.47
+
+2.42
+
+6
+
+4.46
+
+2.55
+
+6
+
+4.36
+
+2.42
+
+9
+
+4.79
+
+2.18
+
+An MHFC for youth has affordable and accessible
+opportunities for healthy recreational activities
+and sports
+
+22
+(8.43)
+
+7
+
+4.49
+
+2.45
+
+9
+
+4.63
+
+2.29
+
+7
+
+4.52
+
+2.31
+
+4
+
+4.16
+
+3.12
+
+An MHFC for youth is safe for youth, women and
+individuals identifying as LGBT+ and is free
+of crime or violence
+
+11
+(4.21)
+
+8
+
+4.8
+
+2.19
+
+12
+
+5.20
+
+2.19
+
+8
+
+4.66
+
+2.26
+
+6
+
+4.40
+
+1.90
+
+An MHFC for youth has a nurturing environment that
+supports a stress-free lifestyle and a sense of
+belonging and purpose
+
+16
+(6.13)
+
+9
+
+4.82
+
+2.5
+
+7
+
+4.47
+
+2.33
+
+10
+
+5.03
+
+2.57
+
+10.5
+
+5.00
+
+2.72
+
+An MHFC for youth is designed with vulnerable
+populations in mind
+
+10
+(3.83)
+
+10
+
+4.88
+
+2.34
+
+10
+
+4.82
+
+2.15
+
+9
+
+4.87
+
+2.38
+
+10.5
+
+5.00
+
+2.61
+
+An MHFC for youth intentionally creates learning
+environments in which mentally diverse young people
+have opportunities to thrive
+
+12
+(4.6)
+
+11
+
+5.04
+
+2.17
+
+13
+
+5.25
+
+2.07
+
+11
+
+5.07
+
+2.21
+
+8
+
+4.64
+
+2.29
+
+An MHFC for youth has access to affordable art,
+music, theatre and cultural activities, as well as
+opportunities for youth participation and
+performance in creative and artistic activities
+
+4
+(1.53)
+
+12
+
+5.13
+
+2.17
+
+4
+
+4.33
+
+2.18
+
+12
+
+5.32
+
+2.10
+
+13
+
+5.61
+
+2.17
+
+An MHFC for youth is pedestrian and bicycle friendly,
+with affordable, accessible public transport
+and safe roads, minimal traffic and good
+traffic infrastructure
+
+2
+(0.77)
+
+13
+
+5.22
+
+1.89
+
+11
+
+5.16
+
+2.25
+
+13
+
+5.33
+
+1.50
+
+12
+
+5.04
+
+2.10
+
+Fig. 5 | Characteristics of a mental health-friendly city rank-ordered by socioecological domain (environment) and grouped by three framing conditions.
+See the caption of Fig. 3 for details. LGBT+, people from sexual and gender minorities.
+
+Pandemic-related gains
+In some cases, the pandemic brought positive experiences for young
+people, including more time for self-reflection and discovery, engaging in healing practices, more opportunities to connect with friends,
+and overall, a greater societal and individual focus on strengthening
+mental health. A participant (25–35) referred to young people: “They are
+more conscious about health and their wellbeing by reducing workload
+and connecting with nature”. Others believed the pandemic revealed
+young people’s capacity to adapt and to consider the needs of their
+elders. Some viewed the social justice uprisings that occurred in many
+countries as a positive vehicle for change and cooperation with others. Changing these conditions would require longer-term solutions:
+strengthening urban infrastructure and addressing the underlying
+drivers of inequity. Another participant (>35) lauded the power of youth
+activism: “… the pandemic has shown us that the resilience of youth is
+great, as well as the commitment and solidarity with their communities
+through volunteering, advocacy and youth mobilization”.
+
+Discussion
+Our study convened a multinational and multidisciplinary panel of
+researchers, practitioners, advocates and young people to identify the
+
+characteristics of a mental health-friendly city for youths. The characteristics are distributed among six socioecological domains (Figs. 3–5)
+that encompass the personal development of young people, supportive
+educational systems, people-centred health care, a built environment responsive to the needs of young people, and equity-focused
+policy-making and governance. Within each of these domains, the
+characteristics we identified are associated with an evolving evidence
+base linked to youth mental health outcomes and to potential policy
+intervention.
+Intrapersonal characteristics in our list underline the centrality of
+enabling young people to cultivate skills to manage their interior lives.
+The targets of such skills-building activities align with proposed ‘active
+ingredients’ of mental health interventions, such as intervention components related to mechanisms of action or clinical effects on depressive or anxiety symptoms35. Examples include affective awareness skills
+that enable young people to differentiate and describe emotions36 and
+emotion regulation skills to increase and maintain positive emotions37.
+Youth-friendly mental health and educational services, a priority theme
+at the community level of the framework, could support the intrapersonal realm by deploying a variety of interventions for self-control that
+benefit adolescent and young adult academic, behavioural and social
+functioning38. Such interventions can also be implemented in earlier
+childhood educational settings through integration into the curriculum
+Nature | Vol 627 | 7 March 2024 | 143
+
+Analysis
+Table 2 | Perceived risks to youth mental health during the COVID-19 pandemic and actions to support mental health
+Socioecological domain
+
+Illustrative quotes
+
+Actions to support
+mental health
+
+Governance and equity
+
+“The pandemic has shone a brighter light on all the infrastructural and societal issues we have been
+generally aware of for a long time, but for which perhaps a renewed energy should be exerted … It showed
+that our education system is underprepared to serve diverse needs and is mostly geared to cater to those
+with the most privilege. It shows that our higher education system is highly funded by unpaid Black and
+brown young people performing on fields, courts and arenas for wealthy people’s entertainment. It reveals
+that society is willing to risk some lives called ‘essential workers’ who are mostly BIPOC and low income.
+Especially, it reveals that during times of high stress societally, decision makers seem to let go of issues
+related to equity.” (>35).
+“… One cannot separate the impact of the pandemic from the nationwide calls for justice and how the issues
+of racism further threaten our youth’s mental wellbeing. After reading all 134 characteristics below, I see
+there is no mention of a MHFC for youth having institutions and leaders who work to dismantle the systems
+of oppression and racism that cause ongoing and significant harm to our youth’s mental wellbeing.” (>35).
+
+Dismantle systems of
+oppression and racism
+
+Social norms and
+protections
+
+“Implementation of initial lockdown measures forced youth along with children, adults and families to
+move from big cities to villages due to lack of minimum social welfare, employment and increasing hunger,
+homelessness etc. Labelled as ‘migrants’, cities were not able to guarantee and uphold basic rights for all
+youth, especially vulnerable groups. Many young people were forced to travel long distances on foot due to
+lack of transport or any other amenities.” (25–35).
+
+Resourced built
+environment
+
+“I believe that young people and city officials have had a re-awakening when it comes to the need for open
+& public spaces in cities. There is certainly not enough open space in urban settings. Young people need
+access to parks and open space. These spaces provide opportunities for youth to connect with themselves
+as individuals, with other youth, and with the community.” (25–35).
+“The pandemic has highlighted the need for more creative green spaces in cities along with more
+accessibility. Closing parks at certain hours is a very uncomfortable public policy. Nature should not align
+with strict schedules designed by those who may not even use the spaces. Nature should have unlimited
+access.” (>35).
+
+Policy and environment
+
+Policies to increase
+access to green and
+blue spaces
+
+Community and organizations
+Supportive educational
+and healthcare systems
+
+“There’s little or no access to mental health care for young people, even virtual services. Many young people
+lost loved ones to the virus at periods when hospitals and counseling centers were shut down. There were
+hardly any mass media messages providing psychological support for them or directing them to virtual
+access to psychological first-aid. There’s still low awareness of the scope of care and support they can
+get from mental health experts … Prevention activities are focused mainly on adults and the elderly, and
+children. Most messages created were hardly directed specifically at young people. Apparently, adolescents
+and young adults are still a ‘forgotten’ group of the society. Even if they were prone to the health issues or
+complications, they were hardly targeted specifically with health-related messages.” (>35).
+“I think short courses on crisis intervention and adaptation techniques could be implemented throughout
+the curriculum from as early as age twelve.” (18–24).
+
+Youth-friendly health
+communication and
+psychosocial support
+Short courses
+
+“We need safe online spaces for peers to connect (including crisis support in those spaces). I can also
+imagine online social gaming spaces used and adapted for positive social and mental health.” (25–35).
+
+Safe, online peer
+support spaces
+
+“Individuals have the power within themselves. Wellness is a purposeful thing done by coercion of the
+human will in the ever changing environment in order to attain its highest potential. Youths are in that stage
+where they need to be equipped with skills to promote positive mental wellbeing.” (18–24).
+
+Skills building
+
+Interpersonal
+
+Personal
+
+Sample quotes from n = 256 respondents regarding changing ideas about the city and youth mental health during the pandemic. Suggested actions are highlighted in bold.
+
+or through other community-based medical or social service organizations39. Interventions implemented in selected high-income settings
+include Promoting Alternative Thinking Strategies40, the Incredible
+Years41 and Family Check-up42. For young adults, interventions that
+convey skills to alleviate common psychological problems such as
+procrastination, perfectionism, low self-esteem, test anxiety and stress
+could potentially reduce the prevalence of specific mental health conditions while possibly providing acceptable and non-stigmatizing options
+for care43,44.
+Our data suggest that a defining theme of any mental health-friendly
+city for youth is the quality of young people’s social fabric and the
+city’s ability to provide young people with the skills, opportunities
+and places required to build and maintain healthy social relationships
+with their peers, across generations, and as members of a community. The relationships of concern in the interpersonal realm have
+intrinsic value for healthy adolescent and youth development, promoting well-being45 and prevention of depression46,47. Panellists also
+linked opportunities to socialize and build social networks to the
+availability of safe spaces, the top-ranked priority in the community
+144 | Nature | Vol 627 | 7 March 2024
+
+domain. Achieving safety necessitates equitable and violence-free
+institutions and cities48, a priority that panellists ranked first for
+ease of implementation in the policy domain. Thus, policies and
+legislation are required that reduce neglect, bullying, harassment,
+abuse, censorship, exposure to violence and a wide range of threats
+towards young people, from homelessness to crime to intimidation
+by officials48,49.
+Exposure to community violence and household violence consistently worsens mental health outcomes for youth50–53; successful reduction of urban violence should be prioritized. Equity-focused responses
+to safety needs should include reducing discriminatory physical and
+structural violence against young people based on race, ethnicity, gender, sexuality or mental health status, which place youth at risk of harmful exposures: rape or trafficking of adolescent girls or police killings
+of North American Black youth. To create urban spaces in which young
+people can experience safety, freedom and belongingness requires
+approaches that actively prevent discrimination54 and that consider
+young people’s multiple identities in the design of institutional as well
+as outdoor spaces. Women-only parks create greater security for girls
+
+and young women and potentially more positive social interaction in
+some settings55.
+The benefits of green space, measured as self-satisfaction for adolescents, are linked to greater social contact (for example, more close
+friends), underscoring space as a conduit for social connection55. The
+advantages of healthy urban spaces for adolescents have emerged not
+only in health sciences research but also in allied fields such as urban
+design and sociology27,56,57. Urban spaces with opportunities for active
+commute options to and from school are associated with increased
+physical activity and environmental supportiveness58. Similarly, the
+presence of community spaces, such as town centres, is associated with
+improved social connectedness and sense of belonging59.
+The critical importance of social connectedness was reinforced in the
+COVID-19 responses. Yet, in many cities the pandemic eliminated spaces
+that foster urban conviviality, often with lasting effects60. Restricted
+movement and COVID-19 transmission risk associated with public
+transport may have contributed to greater stress for urban dwellers and
+ongoing reluctance to use these services61. Such factors contribute to
+social isolation, which may persist in the near term. Consistent with our
+COVID-19 data, responses from a sample of Australian youth identified
+social isolation, interrupted education and work, and uncertainty about
+the future among the primary negative effects of COVID-19 pandemic62.
+In several studies, loneliness increased the risk of mental health conditions among young people during prior epidemics; of relevance to
+the COVID-19 pandemic, the duration of loneliness predicted future
+mental health problems63.
+Analysis of our survey 2 data revealed differences in the priorities of
+young participants (18–24 and 25–35) compared with panellists over age
+35. This discrepancy could have implications for urban decision-makers
+whose plans to implement positive actions on behalf of young people may not align with what is most salient for youth. Thus, youth
+involvement in policy development is even more crucial. Soliciting
+youth perspectives about what supports their mental health based on
+their personal experiences could simplify and improve interventions
+intended for them64. Several actions could facilitate meaningful youth
+engagement in governance: encourage collaboration between governments and youth organizations to co-create and co-lead national action
+plans; implement mechanisms within global governance organizations
+for youth consultation at local, national and international levels; require
+inclusion of young people on relevant conference agendas; and improve
+access to funding for youth-led organizations65,66.
+Notably, the themes of equity and elimination of discrimination due
+to race, gender, sexual orientation and neurodiversity arose frequently
+in the responses to the survey and the COVID-19 question, as did the
+adversities to which minoritized groups are vulnerable (for example, community violence, police violence and bullying; Figs. 4 and 5).
+A city that is free of discrimination and racism ranked first among policy
+responses with immediacy of impact on the mental health of youth—
+even though no statements proposed dismantling systems of oppression that underlie racism and discrimination, as one respondent noted
+(Fig. 4). Globally, racism, xenophobia and other forms of discrimination increase mortality and harm the mental health of affected groups
+through stress-related physiological responses, harmful environmental
+exposures and limited access to opportunities and health services20,67–69.
+Embedded racist and xenophobic norms, policies and practices of
+institutions—including those that govern educational, labour and health
+care systems—yield racialized outcomes for young people around the
+world (for example, high incidence of HIV infection among adolescent
+girls in southern sub-Saharan Africa)20. To disrupt these forces requires
+multiple approaches, including recognition and remedy of historical
+injustices, the activism of social movements committed to change, and
+implementation of legal frameworks based in human rights norms70.
+When participants ranked characteristics for ease of implementation (Figs. 3–5), they coalesced around a broad set of factors demonstrating the need for collaboration across urban sectors (for example,
+
+normalizing seeking mental health care, promoting democratic cooperation and equal opportunity, and creating employment opportunities
+and progressive educational systems). This need for cooperation is
+perhaps most apparent for actions that increase equity. Successful cooperation requires a clear, shared vision and mission, allocation of funding
+in each sector, diversity of funding sources, distributed decision-making
+and authority across sectors, and policies that facilitate collaboration71.
+However, well-intentioned cross-sectoral responses to urban needs may
+inadvertently increase inequities by designing programmes influenced
+by market forces that magnify environmental privilege (that is, unequal
+exposure to environmental problems according to social privilege)54.
+Examples include gentrification and development that use land to
+create green spaces but further dislocate and marginalize communities in need of affordable housing54. Implementing community- and
+youth-partnered processes for urban health equity policy co-creation
+could yield unified agendas and help to circumvent inequitable outcomes54,72. A mental health-friendly city must be positioned to support,
+integrate and enable the thriving of marginalized and vulnerable young
+people of the society, who should be involved in its governance.
+
+Strengths and limitations
+Our study has several strengths. First, this priority-setting study
+yielded a rich dataset of recommended characteristics of a mental
+health-friendly city for young people from a globally diverse panel of
+more than 480 individuals from 53 countries. Second, we welcomed
+expertise from participants with roles relevant to urban sectors:
+researchers, policymakers and practice-based participants, and we
+engaged young people in the study advisory board and as study participants, capitalizing on their lived experience. Third, we captured information about how the COVID-19 pandemic influenced participants’
+ideas about urban adolescent mental health. Fourth, to our knowledge,
+this is the first study that brings together a large and multidisciplinary
+set of stakeholders concerned for cities (for example, urban designers)
+and for youth mental health (for example, teachers and health professionals) to identify priorities for intersectoral action.
+Our study also has several limitations. First, the participants recruited
+do not reflect the full social and economic diversity of urban populations whom city governments and decision-makers must serve. Our
+decision to use a web-based format following standard health research
+priority-setting methods required tradeoffs. We sought disciplinary,
+age and geographic diversity; however, our sample does not represent
+the most marginalized groups of adolescents or adults. Rather, the
+recruitment of academics, educators, leaders and well-networked
+young people through an online study probably minimizes the number
+of participants living in adversity. Although we also recruited young
+people who were not necessarily established experts, many were students or members of advocacy or international leadership networks
+and were not likely to exemplify the most disadvantaged groups. We
+risk masking the specific viewpoints or needs of marginalized and
+at-risk young people. However, we are reassured by the prominence of
+equity as a theme and the call to address social determinants of health.
+Second, it is possible that participants recruited through the authors’
+professional networks may be more likely to reflect the viewpoints of
+the advisory committee members who selected them, given collaborative or other professional relationships. This may have shaped the
+range of responses and their prioritization. Third, the aspirational calls
+for an end to discrimination and inequalities highlighted in our results
+require confronting long-standing structural inequities both within
+and between countries. Structural violence frequently maintains these
+power imbalances. Although we do not view their aspirational nature as
+a limitation, we note that our study data do not outline the complexity
+of responses required to address these determinants of mental health
+or to dismantle discriminatory structures. Fourth, our data present
+several aggregated characteristics that may require disaggregation
+Nature | Vol 627 | 7 March 2024 | 145
+
+Analysis
+Box 1
+
+Considerations for implementing a mental health-friendly city for
+youth
+Considerations for implementing a mental health-friendly city for
+youth using a structure adapted from UNICEF’s strategic framework
+for the second decade of life82 and integrating selected
+characteristics identified in the study with examples distilled from
+scientific literature and from project advisory group members.
+Objectives for implementation along with corresponding examples
+and selected initiatives are shown.
+Objectives
+• Youth are equipped with resources and skills for personal and
+emotional development, compassion, self-acceptance, and
+flourishing.
+• Youth develop and sustain safe, healthy relationships and strong
+intergenerational bonds in age-friendly settings that respect,
+value and validate them.
+• Communities promote youth integration and participation in all
+areas of community life.
+• Communities establish and maintain safe, free public spaces for
+youth socializing, learning and connection.
+• Institutions facilitate satisfying, secure employment;
+progressive, inclusive, violence-free education; skills for mental
+health advocacy and peer support.
+• Policies support antiracist, gender equitable, non-discriminatory
+cities that promote democratic cooperation and non-violence.
+• Urban environments provide safe, reliable infrastructure for
+basic amenities and transportation; affordable housing; access
+to green and blues space; and access to recreation and art.
+• Cities minimize adverse social determinants of health; design for
+safety and security for vulnerable groups; and orient social and
+built environments to mental health promotion, belonging and
+purpose.
+
+Principles
+• Use rights-based approaches
+• Prioritize equity for racially, ethnically, gender, sexually and
+neurologically diverse young people
+• Ensure sustained and authentic participation of youth
+Platforms
+• Schools and other educational settings
+• Health and social services
+• Families and communities
+• Religious and spiritual institutions
+• Child protection and justice systems
+• Peer groups
+• Civil society
+• Digital and non-digital media
+
+as cities contextualize the findings for their settings. Fifth, our network recruitment strategy led to skewed recruitment from some geographic regions (for example, North America and Nepal), which may
+have biased responses (Extended Data Figs. 1–3). Extended Data Table 1
+shows the similarities and differences in the rankings for Nepal, USA
+and the remaining countries in survey 3. Additionally, we recruited
+few 14–17-year-olds. We experienced attrition over the three rounds of
+surveying, ending with complete responses from 261 individuals from
+48 countries, with the greatest loss in participants between surveys 1
+146 | Nature | Vol 627 | 7 March 2024
+
+Implementation objectives
+• Build consensus and contextualize the mental health-friendly
+city approach at local, regional, national levels
+• Engage diverse youth in co-design of mental health-friendly city
+plans
+• Expand opportunities for youth governance
+• Enable collaboration among sectors for policy alignment
+• Engage communities, schools, health services, media for
+intervention delivery
+• Legislate social protection policies
+• Scale interventions to improve economic and behavioral
+outcomes
+• Link implementation to achievement of national or international
+objectives
+Selected implementation strategies
+• Youth co-design and participation: Growing Up Boulder is an
+initiative to create more equitable and sustainable communities
+in which young people participate and influence issues
+that affect them. It is a partnership between local schools,
+universities,
+local government, businesses and local non-profit organizations
+in the USA that has enabled young people to formally participate
+in visioning processes such as community assessments,
+mapping, photo documentation and presentations to city
+representatives83.
+• Engaging schools for interventions: universal school-based
+interventions for mental health promotion84; linkage to mental
+health care for school-based programs85; “Whole-school
+approaches” that engage students and families, communities,
+and other agencies to support mental health and improve
+academic outcomes84,86.
+• Digital platforms for youth mental health: Chile’s HealthyMind
+Initiative digital platform launched during the COVID-19
+pandemic and provided a one-stop resource for information and
+digital mental health services. The platform included targeted
+evidence-based resources for children and adolescents87.
+• Interventions to test at scale: Stepping Stones and Creating
+Futures is a community-based intervention for intimate partner
+violence reduction and strengthening livelihoods in urban
+informal settlements in South Africa that reduced young men’s
+perpetration of intimate partner violence and increased women’s
+earning power88.
+• Shared international objectives: support Sustainable
+Development Goal 11 and New Urban Agenda targets and
+Sustainable Development Goals 1–6, 8, 10 and 16.
+
+and 2 (Table 1), among the 14–17-, 18–24- and 25–35-year-old age groups,
+and among participants from Nepal (Extended Data Fig. 2).
+
+Conclusions
+We identified a set of priorities for cities that require intervention
+at multiple levels and across urban sectors. A clear next step could
+involve convenings to build national or regional consensus around local
+priorities and plans to engage stakeholders to co-design implementation
+
+of the most salient characteristics of a mental health-friendly city for
+youth in specific cities (Box 1). It is likely that many variables (for example, geography, politics, culture, race, ethnicity and sexual identity) will
+shape priorities in each city. Therefore, essential to equitable action is
+ensuring that an inclusive community of actors is at the table formulating and making decisions, and that pathways for generating knowledge
+of mental health-friendly city characteristics remain open. This includes
+representation of sectors beyond mental health that operate at the
+intersection of areas prioritized by young people. Preparing for implementation will require avenues for youth participation and influence
+through collective action, social entrepreneurship and representation
+in national, regional and community decision-making. Enlisting the
+participation of youth networks that bring young people marginalized
+owing to sex, gender, sexual orientation, race, economic status, ethnicity or caste; young people with disabilities; and youth and adults with
+lived experience of mental health conditions in the design of mental
+health-friendly cities will help to level power imbalances and increase
+the likelihood that cities meet their needs.
+Action for adolescent mental health aligns well with actions nations
+should take to achieve development targets, and collective action to
+draw attention to these areas of synergy could benefit youth and cities.
+Specifically, supporting the mental health of young people aligns with
+Sustainable Development Goal 11 (sustainable cities and communities)
+and the New Urban Agenda that aims to “ensure sustainable and inclusive urban economies, to end poverty and to ensure equal rights and
+opportunities … and integration into the urban space”73–75.
+Additionally, the list of mental health-friendly city characteristics
+presents a starting point for strengthening the evidence base on intervening at multiple levels (for example, individual, family, community,
+organizations and environment) to better understand what works for
+which youth in which settings. Cities function as complex systems, and
+systems-centred research can best enable us to understand how individuals’ interactions with one another and with their environments influence good or poor mental health76. Similarly, interdisciplinary inquiry is
+needed that investigates urban precarity and sheds light on social interventions for youth mental health77. New research that tests implementation strategies and measures mental health outcomes of coordinated
+cross-sectoral interventions in cities could be integrated with planned
+actions. Innovative uses of data that measure the ‘racial opportunity
+gap’ can help cities to understand how race and place interact to reduce
+economic well-being for minoritized young people on their trajectory to
+adulthood78. Even heavily studied relationships, such as mental health
+and green space, can benefit from new methodologies for measuring
+exposures, including application of mixed methods, and refined characterization of outcomes by gender and age with a focus on adolescents and
+youth79. Globally, mental health-supporting actions for young people in
+urban areas have an incomplete evidence base, with more peer-reviewed
+publications skewed towards North American research73.
+Designing mental health-friendly cities for young people is possible. It requires policy approaches that facilitate systemic, sustained
+intersectoral commitments at the global as well as local levels80. It also
+requires creative collaboration across multiple sectors because the
+characteristics identified range from transport to housing to employment to health, with a central focus on social and economic equity.
+Acting on these characteristics demands coordinated investment,
+joint planning and decision-making among urban sectoral leaders, and
+strategic deployment of human and financial resources across local
+government departments that shape city life and resources75,81. This
+process will be more successful when cities intentionally and accountably implement plans to dismantle structural racism and other forms
+of discrimination to provide equitable access to economic and educational opportunities for young people, with the goal of eliminating
+disparate health and social outcomes. The process is made easier when
+diverse stakeholders identify converging interests and interventions
+that allow them each to achieve their goals.
+
+Online content
+Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions
+and competing interests; and statements of data and code availability
+are available at https://doi.org/10.1038/s41586-023-07005-4.
+1.
+2.
+3.
+
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+15.
+16.
+
+17.
+
+18.
+19.
+20.
+21.
+
+22.
+23.
+24.
+25.
+
+26.
+
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+
+Gruebner, O. et al. Cities and mental health. Deutsch. Arztebl. Int. 114, 121–127 (2017).
+van der Wal, J. M. et al. Advancing urban mental health research: from complexity
+science to actionable targets for intervention. Lancet Psychiatry 8, 991–1000 (2021).
+UNICEF Innovation & ARM. Innovation for Children in an Urbanizing World: a Use-Case
+Handbook, https://www.unicef.org/innovation/reports/innovation-children-urbanizingworld (UNICEF, 2017).
+Galea, S. The urban brain: new directions in research exploring the relation between
+cities and mood-anxiety disorders. Depress. Anxiety 28, 857–862 (2011).
+March, D. et al. Psychosis and place. Epidemiol. Rev. 30, 84–100 (2008).
+Faris, R. & Dunham, H. Mental Disorders in Urban Areas (Univ. Chicago Press, 1939).
+de Leeuw, E. in Healthy Cities: The Theory, Policy, and Practice of Value-Based Urban
+Planning (eds de Leeuw, E. & Simos, J.) Ch. 1, 3–30 (Springer, 2017).
+Duhl, L. J. The Urban Condition: People and Policy in the Metropolis (Simon and Schuster,
+1963).
+Vlahov, D., Ettman, C. K. & Galea, S. in Urban Health (eds Galea, S. et al.) Ch. 44 (Oxford
+Univ. Press, 2019).
+Urbanization and Development: Emerging Futures (UN-Habitat, 2016).
+Anglin, D. M. et al. From womb to neighborhood: a racial analysis of social determinants
+of psychosis in the United States. Am. J. Psychiatry 178, 599–610 (2021).
+Hancock, T. & Duhl, L. Promoting Health in the Urban Context WHO Healthy Cities Papers
+No. 1 (FADL, 1986).
+Okkels, N., Kristiansen, C. B., Munk-Jørgensen, P. & Sartorius, N. Urban mental health:
+challenges and perspectives. Curr. Opin. Psychiatry 31, 258–264 (2018).
+Kessler, R., Berglund, P., Demler, O., Jin, R. & Merikangas, K. Lifetime prevalence and
+age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey
+replication. Arch. Gen. Psychiatry 62, 593–602 (2005).
+Global Health Data Exchange, Global Burden of Disease Study 2019 (Institute for Health
+Metrics and Evaluation, 2020).
+Santomauro, D. F. et al. Global prevalence and burden of depressive and anxiety disorders
+in 204 countries and territories in 2020 due to the COVID-19 pandemic. Lancet 398,
+1700–1712 (2021).
+Jones, S. et al. Mental health, suicidality, and connectedness among high school students
+during the COVID-19 pandemic - adolescent behaviors and experiences survey, United
+States, January-June 2021. Morb. Mortal. Wkly Rep. Suppl. 71, 16–21 (2022).
+Call, K. et al. Adolescent health and well-being in the twenty-first century: a global
+perspective. J. Res. Adolesc. 12, 69–98 (2002).
+Dahl, R. E., Allen, N. B., Wilbrecht, L. & Suleiman, A. B. Importance of investing in
+adolescence from a developmental science perspective. Nature 554, 441–450 (2018).
+Selvarajah, S. et al. Racism, xenophobia, and discrimination: mapping pathways to health
+outcomes. Lancet 400, 2109–2124 (2022).
+Hurd, N. M., Stoddard, S. A. & Zimmerman, M. A. Neighborhoods, social support, and
+African American adolescents’ mental health outcomes: a multilevel path analysis. Child
+Dev. 84, 858–874 (2013).
+Protecting Youth Mental Health: The U.S. Surgeon General’s Advisory (ed. Health and
+Human Services) (Office of the Surgeon General, 2021).
+Patton, G. C. et al. Our future: a Lancet commission on adolescent health and wellbeing.
+Lancet 387, 2423–2478 (2016).
+Bundy, D. A. P. et al. Investment in child and adolescent health and development: key
+messages from Disease Control Priorities, 3rd Edition. Lancet 391, 687–699 (2018).
+Caruthers, A. S., Van Ryzin, M. J. & Dishion, T. J. Preventing high-risk sexual behavior in
+early adulthood with family interventions in adolescence: outcomes and developmental
+processes. Prev. Sci. 15, 59–69 (2014).
+Stelmach, R. et al. The global return on investment from preventing and treating
+adolescent mental disorders and suicide: a modelling study. BMJ Glob. Health 7,
+e007759 (2022).
+Roe, J. & McCay L. Restorative Cities: Urban Design for Mental Health and Wellbeing
+(Bloomsbury Visual Arts, 2020).
+Knöll, M. & Roe, J. J. Ten questions concerning a new adolescent health urbanism. Build.
+Environ. 126, 496–506 (2017).
+Domaradzka, A. Urban social movements and the right to the city: an introduction to the
+special issue on urban mobilization. Voluntas 29, 607–620 (2018).
+Sinha, M., Collins, P. & Herrman, H. Collective action for young people’s mental health:
+the citiesRISE experience. World Psychiatry 18, 114–115 (2019).
+Sinha, M. et al. Towards mental health friendly cities during and after COVID-19. Cities
+Health https://doi.org/10.1080/23748834.2020.1790251 (2020).
+Viergever, R. F., Olifson, S., Ghaffar, A. & Terry, R. F. A checklist for health research priority
+setting: nine common themes of good practice. Health Res. Policy Syst. 8, 36 (2010).
+Bronfenbrenner, U. Toward an experimental ecology of human development. Am.
+Psychol. 32, 513–531 (1977).
+Banati, P. & Lansford, J. E. in Handbook of Adolescent Development Research and its Impact
+on Global Policy (eds Lansford, J. E. & Banati, P.) Ch. 1, 1–26 (Oxford Univ. Press, 2017).
+What Science Has Shown Can Help Young People with Anxiety and Depression: Identifying
+and Reviewing the ‘Active Ingredients’ of Effective Interventions (Wellcome Trust, 2021).
+Beames, J. R., Kikas, K. & Werner-Seidler, A. Prevention and early intervention of
+depression in young people: an integrated narrative review of affective awareness and
+Ecological Momentary Assessment. BMC Psychol. 9, 113 (2021).
+
+Nature | Vol 627 | 7 March 2024 | 147
+
+Analysis
+37.
+
+38.
+
+39.
+40.
+41.
+42.
+
+43.
+44.
+45.
+46.
+
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+
+54.
+55.
+56.
+57.
+58.
+
+59.
+60.
+61.
+62.
+63.
+
+64.
+
+65.
+
+66.
+
+Daros, A. R. et al. A meta-analysis of emotional regulation outcomes in psychological
+interventions for youth with depression and anxiety. Nat. Hum. Behav. 5, 1443–1457
+(2021).
+Johnson, S. B., Voegtline, K. M., Ialongo, N., Hill, K. G. & Musci, R. J. Self-control in first
+grade predicts success in the transition to adulthood. Dev. Psychopathol. 35, 1358–1370
+(2023).
+Pandey, A. et al. Effectiveness of universal self-regulation-based interventions in children
+and adolescents: a systematic review and meta-analysis. JAMA Pediatr. 172, 566–575 (2018).
+Arda, T. & Ocak, S. Social competence and promoting alternative thinking strategies PATHS preschool curriculum. Educ. Sci. Theory Pract. 12, 2691–2698 (2012).
+Webster-Stratton, C. Randomized trial of two parent-training programs for families with
+conduct-disordered children. J. Consult. Clin. Psychol. 52, 666–678 (1984).
+Hentges, R. F. et al. The long-term indirect effect of the early Family Check-Up intervention
+on adolescent internalizing and externalizing symptoms via inhibitory control. Dev.
+Psychopathol. 32, 1544–1554 (2020).
+Cuijpers, P. et al. The associations of common psychological problems with mental
+disorders among college students. Front. Psychiatry 12, 573637 (2021).
+Cuijpers, P. Indirect prevention and treatment of depression: an emerging paradigm?
+Clin. Psychol. Eur. 3, e6847 (2021).
+Blum, R. W., Lai, J., Martinez, M. & Jessee, C. Adolescent connectedness: cornerstone for
+health and wellbeing. Brit. Med. J. 379, e069213 (2022).
+Filia, K., Eastwood, O., Herniman, S. & Badcock, P. Facilitating improvements in young
+people’s social relationships to prevent or treat depression: a review of empirically
+supported interventions. Transl. Psychiatry 11, 305 (2021).
+Herrman, H. et al. Time for united action on depression: a Lancet-World Psychiatric
+Association Commission. Lancet 399, 957–1022 (2022).
+United Nations Children’s Fund. The State of the World’s Children 2021: on My Mind –
+Promoting, Protecting and Caring for Children’s Mental Health (UNICEF, 2021).
+Massetti, G. M., Hughes, K., Bellis, M. A. & Mercy, J. in Adverse Childhood Experiences
+(eds Asmundson, G. J. G. & Afifi, T. O.) 209–231 (Academic, 2020).
+Bordin, I. Severe physical punishment: risk of mental health problems for poor urban
+children in Brazil. Bull. World Health Organ. 87, 336–344 (2009).
+Cecil, C. A., Viding, E., Fearon, P., Glaser, D. & McCrory, E. J. Disentangling the mental
+health impact of childhood abuse and neglect. Child Abuse Negl. 63, 106–119 (2017).
+Giovanelli, A., Reynolds, A. J., Mondi, C. F. & Ou, S. R. Adverse childhood experiences and
+adult well-being in a low-income, urban cohort. Pediatrics 137, e20154016 (2016).
+Molano, A., Harker, A. & Cristancho, J. C. Effects of indirect exposure to homicide events
+on children’s mental health: evidence from urban settings in Colombia. J. Youth Adolesc.
+47, 2060–2072 (2018).
+Cole, H. et al. Can healthy cities be made really healthy? Lancet Public Health 2, e394–e395
+(2017).
+Dadvand, P. et al. Use of green spaces, self-satisfaction and social contacts in adolescents:
+a population-based CASPIAN-V study. Environ. Res. 168, 171–177 (2019).
+Markevych, I. et al. Access to urban green spaces and behavioural problems in children:
+results from the GINIplus and LISAplus studies. Environ. Int. 71, 29–35 (2014).
+Thompson, C., Silvereirinha de Oliveira, E., Wheeler, B., Depledge, M. & van den Bosch,
+M. Urban Green Spaces and Health (WHO Regional Office for Europe, 2016).
+Buli, B. G., Tillander, A., Fell, T. & Bälter, K. Active commuting and healthy behavior among
+adolescents in neighborhoods with varying socioeconomic status: the NESLA study. Int.
+J. Environ. Res. Public Health 19, 3784 (2022).
+Laine, J. et al. Cost-effectiveness of population-level physical activity interventions:
+a systematic review. Am. J. Health Promot. 29, 71–80 (2014).
+Martínez, L. & Short, J. R. The pandemic city: urban issues in the time of COVID-19.
+Sustainability 13, 3295 (2021).
+Mouratidis, K. How COVID-19 reshaped quality of life in cities: a synthesis and implications
+for urban planning. Land Use Policy 111, 105772 (2021).
+Bell, I. H. et al. The impact of COVID-19 on youth mental health: a mixed methods survey.
+Psychiatry Res. 321, 115082 (2023).
+Loades, M. E. et al. Rapid systematic review: the impact of social isolation and loneliness
+on the mental health of children and adolescents in the context of COVID-19. J. Am. Acad.
+Child Adolesc. Psychiatry 59, 1218–1239 (2020).
+Ng, M. Y., Eckshtain, D. & Weisz, J. R. Assessing fit between evidence-based psychotherapies
+for youth depression and real-life coping in early adolescence. J. Clin. Child Adolesc.
+Psychol. 45, 732–748 (2016).
+O’Kane, C., Haj-Ahmad, J. & Friscia, F. Engaged and Heard! Guidelines on Adolescent
+Participation and Civic Engagement, https://www.unicef.org/media/73296/file/
+ADAP-Guidelines-for-Participation.pdf (United Nations Children’s Fund, 2020).
+Rahmaty, M. & Leiva Roesch, J. Youth Participation in Global Governance for Sustaining
+Peace and Climate Action International Peace Institute Issue Briefs, https://www.ipinst.
+org/2021/04/youth-participation-in-global-governance-for-sustaining-peace-andclimate-action (International Peace Institute, 2021).
+
+148 | Nature | Vol 627 | 7 March 2024
+
+67.
+
+68.
+
+69.
+70.
+71.
+72.
+73.
+
+74.
+75.
+76.
+77.
+78.
+
+79.
+80.
+81.
+
+82.
+
+83.
+84.
+85.
+
+86.
+
+87.
+
+88.
+
+Erondu, N. A., Mofokeng, T., Kavanagh, M. M., Matache, M. & Bosha, S. L. Towards
+anti-racist policies and strategies to reduce poor health outcomes in racialised
+communities: introducing the O’Neill-Lancet Commission on Racism, Structural
+Discrimination, and Global Health. Lancet 401, 1834–1836 (2023).
+Fani, N., Carter, S. E., Harnett, N. G., Ressler, K. J. & Bradley, B. Association of racial
+discrimination with neural response to threat in Black women in the US exposed to
+trauma. JAMA Psychiatry 78, 1005–1012 (2021).
+Fani, N. et al. Racial discrimination associates with lower cingulate cortex thickness in
+trauma-exposed black women. Neuropsychopharmacology 47, 2230–2237 (2022).
+Abubakar, I. et al. Confronting the consequences of racism, xenophobia, and
+discrimination on health and health-care systems. Lancet 400, 2137–2146 (2022).
+Towe, V. L. et al. Cross-sector collaborations and partnerships: essential ingredients to
+help shape health and well-being. Health Aff. 35, 1964–1969 (2016).
+Walker, S. C. et al. Cocreating evidence-informed health equity policy with community.
+Health Serv. Res. 57, 137–148 (2022).
+Murphy, L. E., Jack, H. E., Concepcion, T. L. & Collins, P. Y. Integrating urban adolescent
+mental health into urban sustainability collective action: an application of Shiffman &
+Smith’s framework for global health prioritization. Front. Psychiatry 11, 44 (2020).
+New Urban Agenda (UN Habitat III Secretariat, 2017).
+Health as the Pulse of the New Urban Agenda: United Nations Conference on Housing and
+Sustainable Urban Development, Quito (World Health Organization 2016).
+Diez Roux, A. V. Health in cities: is a systems approach needed. Cad. Saude Publica 31,
+9–13 (2015).
+Pykett, J. et al. Urban precarity and youth mental health: an interpretive scoping review of
+emerging approaches. Soc. Sci. Med. 320, 115619 (2023).
+O’Brien, R., Neman, T., Seltzer, N., Evans, L. & Venkataramani, A. Structural racism, economic
+opportunity and racial health disparities: evidence from U.S. counties. SSM Popul. Health 11,
+100564 (2020).
+Fleckney, P. & Bentley, R. The urban public realm and adolescent mental health and
+wellbeing: a systematic review. Soc. Sci. Medicine 284, 114242 (2021).
+de Leeuw, E. & Simos, J. Healthy cities move to Maturity in Healthy Cities (eds de Leeuw, E. &
+Simos, J.) Ch. 5, 74-86 (Springer, 2017).
+Our Cities, Our Health, Our Future: Acting on Social Determinants for Health Equity in
+Urban Settings - Report to the WHO Commission on Social Determinants of Health from
+the Knowledge Network on Urban Settings (World Health Organization, 2008).
+UNICEF Programme Guidance for the Second Decade: Programming with and for
+Adolescents Programme Division 2018, https://www.unicef.org/media/57336/file
+(UNICEF, 2018).
+Growing Up Boulder: Boulder’s Child- and Youth-Friendly City Initiative (Growing Up
+Boulder, 2015).
+O’Reilly, M., Svirydzenka, N., Adams, S. & Dogra, N. Review of mental health promotion
+interventions in schools. Soc. Psychiatry Psychiatr. Epidemiol. 53, 647–662 (2018).
+Kutcher, S. et al. Creating evidence-based youth mental health policy in sub-Saharan
+Africa: a description of the integrated approach to addressing the issue of youth
+depression in Malawi and Tanzania. Front. Psychiatry 10, 542 (2019).
+Shinde, S. et al. Promoting school climate and health outcomes with the SEHER
+multi-component secondary school intervention in Bihar, India: a cluster-randomised
+controlled trial. Lancet 392, 2465–2477 (2018).
+A New Agenda for Mental Health in the Americas: Report of the Pan American Health
+Organization High-Level Commission on Mental Health and COVID-19, https://doi.org/
+10.37774/9789275127223 (Pan American Health Organization, 2023).
+Gibbs, A. et al. Stepping Stones and Creating Futures intervention to prevent intimate
+partner violence among young people: cluster randomized controlled trial. J. Adolesc.
+Health 66, 323–335 (2020).
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution
+4.0 International License, which permits use, sharing, adaptation, distribution
+and reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the Creative Commons licence,
+and indicate if changes were made. The images or other third party material in this article are
+included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+to the material. If material is not included in the article’s Creative Commons licence and your
+intended use is not permitted by statutory regulation or exceeds the permitted use, you will
+need to obtain permission directly from the copyright holder. To view a copy of this licence,
+visit http://creativecommons.org/licenses/by/4.0/.
+© The Author(s) 2024
+
+Methods
+Project structure and launch
+This study aimed to identify priorities for creating cities that promote
+and sustain adolescent and youth mental health. Central to achieving
+this aim was our goal of engaging a multidisciplinary, global, age-diverse
+group of stakeholders. As we began and throughout the study, we
+were cognizant of the risk of attrition, the importance of maintaining
+multidisciplinary participation throughout the study and the value of
+preserving the voices of young people. We used a priority-setting methodology explicitly aimed to be inclusive while simultaneously limiting
+study attrition. To ensure that we were inclusive of the voices of young
+people and our large and diverse sample, we limited our study to three
+surveys, which we determined a priori. Our approach was informed by
+standard methodologies for health research priority setting32.
+The project was led by a collaborative team from the University of
+Washington Consortium for Global Mental Health, Urban@UW, the
+University of Melbourne and citiesRISE. We assembled three committees representing geographic, national, disciplinary, gender and
+age diversity to guide the work. First, a core team of P.Y.C., T.W., G.P.,
+M.S. and T.C., generated an initial list of recommended members of
+the scientific advisory board on the basis of their research and practice
+activities related to adolescent mental health or the urban setting. We
+sought a multidisciplinary group representing relevant disciplines.
+The 18-member scientific advisory board, comprising global leaders
+in urban design and architecture, social entrepreneurship, education,
+mental health and adolescent development, provided scientific guidance. We invited members of an executive committee, who represented
+funding agencies as well as academic and non-governmental organizational leadership, to provide a second level of feedback. A youth
+advisory board, recruited through citiesRISE youth leaders and other
+global mental health youth networks, comprised global youth leaders in mental health advocacy. A research team from the University
+of Washington (Urban@UW, the University of Washington Population Health Initiative and the University of Washington Consortium
+for Global Mental Health) provided study coordination. The study
+received institutional review board approval at the University of Washington (STUDY00008502). Invitations to advisory groups were sent
+in December 2019, along with a concept note describing the aims of
+the project, and committee memberships were confirmed in January
+2020. In February 2020, the committees formulated the question for
+survey 1: “What are the characteristics of a mental health friendly city
+for young people?”.
+Study recruitment
+The members of the scientific advisory board, youth advisory board and
+executive committee were invited to nominate individuals with expertise across domains relevant to urban life and adolescent well-being.
+The group recommended 763 individuals to join the priority-setting
+panel; individuals invited to serve on the scientific advisory board,
+youth advisory board and executive committee were included in panel
+invitations (n = 38). Our goal was to establish a geographically diverse
+panel of participants with scientific, policy and practice-based expertise corresponding to major urban sectors and related challenges (for
+example, health, education, urban planning and design, youth and
+criminal justice, housing and homelessness, and violence). Many of the
+nominees were experts with whom the core group and scientific advisory board members had collaborated, as well as individuals recruited
+on the basis of their participation in professional and scientific associations and committees (for example, Lancet Commissions and Series)
+or global practice networks (for example, Teach for All). Nominees’
+names, the advisory member who nominated them, gender, country
+and discipline were tracked by T.C. We used snowball sampling to recruit
+participants from geographic regions that were under-represented: an
+additional 24 people were recruited through referrals. The scientific
+
+advisory board and youth advisory board sought to maximize the
+number of young people participating in the study, and invitations
+were extended to adolescents and young adults through educational,
+professional, advocacy and advisory networks. Nominees received an
+invitation letter by e-mail, accompanied by a concept note that introduced the study, defined key constructs, described the roles of the
+study advisory groups and provided an estimated study timeline. Youth
+participants (14–24) received a more abbreviated introductory letter.
+A link to a REDCap survey with an informed consent form and round
+1 question was embedded in the invitation e-mail, which was offered
+in English and Spanish. Of the 824 individuals invited, 518 individuals
+from 53 countries provided informed consent and agreed to participate,
+resulting in a nomination acceptance rate of 62.8%.
+
+Data collection
+We administered a series of three sequential surveys using REDCap
+version 9.8.2. Panellists were asked to respond to the survey 1 question
+“What are the characteristics of a mental health friendly city for young
+people?” by providing up to five characteristics and were invited to use
+as much space as needed. In survey 2, panellists received 134 characteristic statements derived from survey 1 data and were asked to select
+their 40 most important statements. From these data, we selected 40
+most frequently ranked statements. These were presented in the round
+3 survey with three redundant statements removed. The remaining 37
+characteristic statements were categorized across 6 socioecological
+domains and panellists were asked to select 1 of 3 framings by which
+to rank the statements in each domain: immediacy of impact on youth
+mental health in cities, ability to help youth thrive in cities, and ease
+or feasibility of implementation. Of individuals who consented to participate, 93.4% completed round 1, 58.5% completed round 2 and 56.2%
+completed round 3 (Table 1).
+We added a new open-ended question to survey 2: “How has the
+COVID-19 pandemic changed your ideas about the wellbeing of young
+people in cities?”. Panellists were invited to respond using as many
+characters (that is, as much space) as needed.
+Data analysis
+Three-survey series. We managed the survey 1 data using ATLAS.ti 8
+software for qualitative data analysis and conducted a conventional
+content analysis of survey 1 data89. Given the multidisciplinarity of
+the topic and our multidisciplinary group of respondents, we selected
+an inductive method of analysis to reflect, as simply as possible, the
+priorities reported by the study sample without imposing disciplinary
+frameworks. In brief, responses were read multiple times, and characteristics were highlighted in the text. A list of characteristics (words and
+phrases) was constructed, and we coded the data according to emerging categories (for example, accessibility, basic amenities, career, built
+environment, mental health services and so on). The analysis yielded
+19 broad categories with 423 characteristics. Within each category,
+characteristics were grouped into statements that preserved meaning
+while streamlining the list, which yielded 134 characteristic statements.
+The University of Washington research team convened a 1-week series
+of data discussions with youth advisers to review the wording of the
+characteristics and ensure their comprehensibility among readers
+from different countries. The survey 1 categorized data were reviewed
+by members of the scientific advisory board, who recommended that
+using relevant domains to group characteristics would provide meaningful context to the final list. We used IBM SPSS 28.0 for quantitative
+analyses of data from surveys 2 and 3. In survey 2, we analysed the frequency of endorsement of the 40 characteristics selected by panellists
+and generated a ranked list of all responses, with the most frequently
+endorsed at the top. The decision to select 40 characteristics aligned
+with methods applied in a previous priority-setting exercise90 and permitted a list of preferred characteristics that could subsequently be categorized according to a known framework, allowing city stakeholders
+
+Analysis
+a broad list from which to select actions. We also analysed frequency
+of endorsement by age categories (18–24, 25–35 and >35). To amplify
+the viewpoints of younger participants (under age 35), we combined
+the top 25 characteristic statements of panellists over 35 with the top
+26 characteristic statements of participants under 35 to generate a list
+of 40 statements, including 11 shared ranked characteristics. As noted,
+we removed three of these statements because of their redundancy. In
+survey 3, we analysed data consisting of 37 characteristic statements
+divided across 6 socioecological domains. Characteristics in each domain were ranked according to one of three framings. We calculated
+mean ranking and standard deviation for characteristics in each framing
+category per socioecological domain. Mean rankings (with standard
+deviation) were calculated across framing categories to arrive at the
+total mean rank per characteristic and they reflect the proportional
+contribution of each domain. We also calculated the frequency with
+which panellists ranked each characteristic statement number 1.
+Our study methods align with good practices for health research
+priority setting as follows32.
+• Context: we defined a clear focus of the study.
+• Use of a comprehensive approach: we outlined methods, time frame
+and intentions for the results before beginning the study; however,
+we modified (that is, simplified) the methods for survey 3 to minimize
+study attrition.
+• Inclusiveness: we prioritized recruiting for broad representation
+and maintaining engagement of an inclusive participant group, and
+methodological decisions were made in service of this priority.
+• Information gathering: our reviews of the literature showed that a
+study bringing together these key stakeholders had not been conducted, despite the need.
+• Planning for implementation: we recognized from the outset that
+additional convening at regional levels would be required to implement action, and our network members are able to move the agenda
+forwards.
+• Criteria: we determined criteria for the priorities (framing: feasibility
+of implementation, immediacy of impact and ability to help youth
+thrive) that study participants used and which we believe will be useful
+for practical implementation.
+• Methods for deciding on priorities: we determined that rank order
+would be used to determine priorities.
+• Evaluation: not applicable; we have not planned an evaluation of the
+impact of priority setting in this phase of work.
+• Transparency: the manuscript preparation, review and revisions
+enable us to present findings with transparency.
+COVID-19 qualitative data. We managed the COVID-19 qualitative
+data using Microsoft Excel and Microsoft Word. We carried out a rapid
+qualitative analysis91. First, the text responses were read and re-read
+multiple times. We coded the data for content related to expressions
+of change, no change or areas of emphasis in participants’ perceptions
+of youth mental health in cities during the pandemic. We focused our
+attention on data that highlighted changes. We further segmented the
+data by participant age categories, domains of change and suggested
+actions, and we assigned socioecological level of changes. We created
+a matrix using excerpted or highlighted text categorized according
+to these categories. Three data analysts (P.Y.C., T.C. and A.M.-K.)
+reviewed the domains of change and identified emerging themes, which
+were added to the matrix and linked to quotes. The team discussed the
+themes and came to consensus on assignment to a socioecological level.
+
+We prioritized reporting recurring concepts (for example, themes of
+loss, inequity, green space, isolation and mental illnesses) and contrasting concepts (for example, gains associated with COVID-19) and
+associated actions92.
+
+Reporting summary
+Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.
+
+Data availability
+Survey data that support the findings of this study are available from
+the corresponding author, P.Y.C., on reasonable request. The sharing
+of data must comply with institutional policies that require a formal
+agreement (between the corresponding author and the requester) for
+sharing and release of data under limits permissible by the institutional
+review board.
+89. Hsieh, H.-F. & Shannon, S. E. Three approaches to qualitative content analysis. Qual.
+Health Res. 15, 1277–1288 (2005).
+90. Collins, P. Y. et al. Grand challenges in global mental health. Nature 475, 27–30 (2011).
+91. Hamilton, A. B. Qualitative Methods in Rapid Turn-around Health Services Research.
+VA HSR&D National Cyberseminar Series: Spotlight on Women’s Health, 2013, https://
+www.hsrd.research.va.gov/for_researchers/cyber_seminars/archives/video_archive.
+cfm?SessionID=780 (2013).
+92. Ryan, G. W. & Bernard, H. R. Techniques to identify themes. Field Methods 15, 85–109
+(2003).
+Acknowledgements We thank M. Antia, S. Talam and J. Vollendroft for contributions to this
+project; H. Jack for contributions to the manuscript revision; and the survey panellists without
+whom this work would not have been possible. M.K. was supported in part by funding from the
+Fogarty International Center (K43 TW010716) and the National Institute of Mental Health (R21
+MH124149) of the National Institutes of Health. This study was supported in part by funding to
+citiesRISE (M.M. and M.H.) from the Rural India Supporting Trust and from Pivotal Ventures.
+This study was conducted while P.Y.C. was on the faculty at the University of Washington,
+Seattle. The University of Washington (P.Y.C. and T.C.) received funding from citiesRISE by
+subcontract. T.D. is a staff member of the World Health Organization (WHO). The content and
+views expressed in this manuscript are solely the responsibility of the authors and do not
+necessarily represent the official views, decisions or policies of the institutions with which
+they are affiliated, including WHO, the US Department of Health and Human Services and the
+National Institutes of Health.
+Author contributions This study was led by a core group, P.Y.C., G.P., M.S. and T.W., who were
+members of the project’s scientific advisory board and executive committee and part of the
+group of 32 co-authors (P.Y.C., M.S., T.C., G.P., T.W., L.M., A.M.-K., L.A., N.B., I.B., Y.C., T.D., E.d.L.,
+N.F., H.H., S.K., M.K., B.L., O.O., J.M.U.-R., C.B., K.D., M.H., D.J., M.M., E.Q., Y.O., L.Z., N.A., P.M.,
+J.U. and M.W.). P.Y.C. and T.C. regularly updated the core group members by e-mail, and P.Y.C.
+led online meetings with updates on study progress and data collection and study outcomes
+with members of the scientific advisory board (N.B., I.B., Y.C., T.D., E.d.L., N.F., H.H., S.K., M.K.,
+B.L., O.O., J.M.U.-R. and K.D.), youth advisory board (K.D., C.B., D.J., Y.O., E.Q. and L.Z.) and
+executive committee (N.A., J.U. and M.W.). P.Y.C. (the core group lead) and members of the
+scientific advisory board and executive committee were involved with conceptualization,
+study design and methodology. Youth advisers assisted with qualitative data analysis. P.Y.C.,
+T.C. and A.M.-K. were also responsible for data curation and formal analysis; P.Y.C. and T.C.
+wrote the original draft, with contribution from G.P., M.S., T.W., H.H. and L.M. P.Y.C., T.C., A.M.-K.,
+M.M., H.H. and E.d.L. reviewed and organized responses to reviewers. All co-authors reviewed
+responses to the reviewers. P.Y.C. led the manuscript revision with A.M.-K., M.M. and T.C. All
+co-authors had the opportunity to discuss the results, review full drafts of the manuscript and
+provide comments on the manuscript at all stages.
+Competing interests The authors declare no competing interests.
+Additional information
+Supplementary information The online version contains supplementary material available at
+https://doi.org/10.1038/s41586-023-07005-4.
+Correspondence and requests for materials should be addressed to Pamela Y. Collins.
+Peer review information Nature thanks Rhiannon Corcoran, Sean Grant, Diana Romero,
+Ezra Susser, J. Phillip Thompson and the other, anonymous, reviewer(s) for their contribution to
+the peer review of this work.
+Reprints and permissions information is available at http://www.nature.com/reprints.
+
+Extended Data Fig. 1 | Distribution of Participants by Nationality
+(N = 518)a,b,c. aCountries Participating: Argentina, Australia, Bangladesh,
+Cameroon, Canada, China, Colombia, Croatia, Czech Republic, Ecuador, Egypt,
+Ethiopia, France, Germany, Ghana, Haiti, Hong Kong, India, Iran, Italy, Kenya,
+Malawi, Mauritius, Mexico, Nepal, Netherlands, New Zealand, Nigeria, Norway,
+Pakistan, Papua New Guinea, Peru, Philippines, Poland, Rwanda, Samoa, Sierra
+Leone, Slovenia, South Africa, South Korea, Sweden, Switzerland, Taiwan,
+Tanzania, The Gambia, Tunisia, Turkey, Uganda, UK, USA, Venezuela, Zambia,
+
+Zimbabwe (53 total); bTwo responses (“Asian” and “Indigenous and European”)
+do not list a nation but capture verbatim open-text responses; cCountries with
+one participant removed from graph and include: Argentina, Bangladesh,
+Cameroon, Croatia, Czech Republic, Ecuador, Egypt, Ethiopia, France, Haiti,
+Hong Kong, Indigenous and European, Mauritius, New Zealand, Norway, Papua
+New Guinea, Samoa, Slovenia, South Africa, South Korea, Switzerland, Taiwan,
+Tanzania, The Gambia, Tunisia, Turkey, Uganda, Venezuela.
+
+Analysis
+
+Extended Data Fig. 2 | Participant Nationality by Survey Round. aSEA = South-East Asia, NA = North America*, AF = Africa, LSA = Latin & South America*, EU =
+Europe, WP = Western Pacific, EM = Eastern Mediterranean.
+
+Extended Data Fig. 3 | Distribution of Participants by WHO Region* and
+Survey Round. aSEA = South-East Asia, NA = North America*, AF = Africa,
+LSA = Latin & South America*, EU = Europe, WP = Western Pacific, EM = Eastern
+
+Mediterranean; *We separated North America from Latin & South America for
+more transparent display of participant distribution.
+
+Analysis
+Extended Data Table 1 | Rankings of MHFC Characteristics by Socio-Ecological Level for USA, Nepal, and other countries
+
+This table shows the total mean rank for each characteristic adjacent to country-specific ranks for 3 categories of data: Nepal, USA, and all other countries. Nepal and the USA represent the
+sites from which the largest number of participants were recruited. Mean country ranks for each characteristic within a level are shaded from green to red where green represents the highest
+rank and red represents the lowest rank. Shading highlights where rankings from the largest participant groups diverge or converge relative to each other and to the total mean ranking.
+
+Last updated by author(s): Oct 10, 2023
+
+Reporting Summary
+Nature Portfolio wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency
+in reporting. For further information on Nature Portfolio policies, see our Editorial Policies and the Editorial Policy Checklist.
+
+nature portfolio | reporting summary
+
+Corresponding author(s): Pamela Y. Collins
+
+Statistics
+For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+n/a Confirmed
+The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement
+A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly
+The statistical test(s) used AND whether they are one- or two-sided
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+
+A description of all covariates tested
+A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons
+A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient)
+AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)
+For null hypothesis testing, the test statistic (e.g. F, t, r) with confidence intervals, effect sizes, degrees of freedom and P value noted
+Give P values as exact values whenever suitable.
+
+For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings
+For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes
+Estimates of effect sizes (e.g. Cohen's d, Pearson's r), indicating how they were calculated
+Our web collection on statistics for biologists contains articles on many of the points above.
+
+Software and code
+Policy information about availability of computer code
+Data collection
+
+We utilized Research Electronic Data Capture (REDCap) version 9.8.2, a secure web-based application for managing online surveys, for
+quantitative and qualitative data collection.
+
+Data analysis
+
+We used IBM SPSS 28.0 for quantitative data analysis and ATLAS.ti 8 for qualitative data analysis.
+
+For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors and
+reviewers. We strongly encourage code deposition in a community repository (e.g. GitHub). See the Nature Portfolio guidelines for submitting code & software for further information.
+
+Data
+Policy information about availability of data
+All manuscripts must include a data availability statement. This statement should provide the following information, where applicable:
+March 2021
+
+- Accession codes, unique identifiers, or web links for publicly available datasets
+- A description of any restrictions on data availability
+- For clinical datasets or third party data, please ensure that the statement adheres to our policy
+Survey data that support the findings of this study are available from the corresponding author, PYC, on reasonable request. This means that the sharing of data
+must comply with institutional policies that require a formal agreement (between the corresponding author and the requestor) for sharing and release of data
+under limits permissible by the Institutional Review Board.
+
+1
+
+Please select the one below that is the best fit for your research. If you are not sure, read the appropriate sections before making your selection.
+Life sciences
+
+Behavioural & social sciences
+
+Ecological, evolutionary & environmental sciences
+
+For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf
+
+Behavioural & social sciences study design
+All studies must disclose on these points even when the disclosure is negative.
+Study description
+
+The study is a sequential, multi-survey priority-setting exercise comprising two open-ended survey questions that provided
+qualitative data and 2 structured surveys that permitted quantification of the results.
+
+Research sample
+
+The study sample comprises children (age 14-17 yrs) and adults (18 yrs and older) representing 53 countries.
+
+Sampling strategy
+
+We recruited individuals with practice-based, policy, research expertise and/or lived experience as a young person under the age of
+35 through nominations submitted by the project's Scientific Advisory Board. To improve geographic diversity, we used snowball
+sampling to ensure participation from specific regions. Because the aim of the study was to achieve input and determine priorities
+from diverse stakeholders, we did not predetermine sample size.
+
+Data collection
+
+Participants were contacted vis email, provided details about the study, and invited to give informed consent for participation in a 3round survey via REDCap. Participants responded to open-ended questions in the first and second surveys, and they responded to
+structured survey questions in the second and third surveys using REDCap.
+
+Timing
+
+Data collection began in April 2020 and ended in December 2020. The first survey period occurred from April-May 2020, the second
+from August to September 2020, and the third from November - December 2020.
+
+Data exclusions
+
+No data were excluded.
+
+Non-participation
+
+825 participants were invited to participate, 307 did not respond. 518 people accepted the invitation, 484 submitted Survey 1 data,
+303 submitted Survey 2 data (215, no response), 291 submitted Survey 3 data (227, no response). We did not collect data on reasons
+for non-participation or drop-out.
+
+Randomization
+
+The study did not involve randomization.
+
+nature portfolio | reporting summary
+
+Field-specific reporting
+
+Reporting for specific materials, systems and methods
+We require information from authors about some types of materials, experimental systems and methods used in many studies. Here, indicate whether each material,
+system or method listed is relevant to your study. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response.
+
+Materials & experimental systems
+
+Methods
+
+n/a Involved in the study
+
+n/a Involved in the study
+
+Antibodies
+
+ChIP-seq
+
+Eukaryotic cell lines
+
+Flow cytometry
+
+Palaeontology and archaeology
+
+MRI-based neuroimaging
+
+Animals and other organisms
+Human research participants
+Clinical data
+Dual use research of concern
+
+March 2021
+
+2
+
+
