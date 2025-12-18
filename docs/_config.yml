@@ -1,0 +1,31 @@
+# Site Settings
+title: "베리타스 강좌 2: 전생애 정신건강"
+description: "뇌과학-심리학-언어인지과학으로 본 전생애 정신건강 교과목"
+url: "https://yourusername.github.io" # GitHub Pages URL로 변경 필요
+baseurl: "/veritas-lecture-2" # 또는 레포지토리 이름
+
+# Build Settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Author Information
+author:
+  name: "베리타스 강좌 2 연구팀"
+  email: "contact@example.com" # 실제 이메일로 변경 필요
+
+# Language
+lang: ko-KR
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
