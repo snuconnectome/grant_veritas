@@ -303,6 +303,16 @@ This is a **course development project**, not a software codebase. When working 
 - Respect the interdisciplinary nature: neuroscience + clinical + developmental + cognitive science
 - Maintain consistency with the approved budget and timeline
 - Preserve the student-centered, data-driven learning philosophy
+
+### Research & Knowledge Management
+
+- Prioritize information in `01summaries/notebooklm_insights/` for scientific grounding.
+- Use `scripts/sync_kb.py` to index new exports.
+- For automated syncing, refer to `scripts/notebooklm_scraper.py` (requires Playwright).
+- Original source papers should be stored in `03references/sources/`.
+
+---
+
 - Keep existential themes as organizing framework
 - Ensure all modules integrate team-teaching approach
 - Document IRB and ethical considerations for any data collection activities
