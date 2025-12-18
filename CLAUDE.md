@@ -1,319 +1,224 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with files in this repository.
+이 파일은 이 저장소의 파일들로 작업할 때 Claude Code(claude.ai/code)에게 가이드를 제공합니다.
 
-## 🎯 Quick File Locations
+## 🎯 주요 파일 위치
 
-### ⭐ Primary Working Files
+### ⭐ 핵심 작업 파일
 
-- **Latest Proposal (Word)**: `00proposals/current/_연구개발계획서_v4_수정본.docx`
-- **Latest Proposal (Markdown)**: `00proposals/current/_연구개발계획서_v4_수정본.md`
-- **Project README**: `README.md` (root)
+- **최신 연구계획서 (Word)**: `00proposals/current/_연구개발계획서_v8_전생애최종본.docx`
+- **최신 연구계획서 (Markdown)**: `00proposals/current/_연구개발계획서_v8_전생애최종본.md`
+- **프로젝트 README**: `README.md` (루트)
 
-### 📚 Reference Materials
+### 📚 참고 자료
 
-- **Lancet Paper**: `03references/papers/PAPER-Lancet youth mental health (2024).pdf`
-- **Nature Cities Paper**: `03references/papers/PAPER-CITIES YOUTH MENTAL HEALTH.pdf`
-- **Prof. Lee Syllabus**: `03references/papers/Syll_Lab in SocEd Interventions_Sem2-2023 Final.pdf`
+- **Lancet 논문**: `03references/papers/PAPER-Lancet youth mental health (2024).pdf`
+- **Nature Cities 논문**: `03references/papers/PAPER-CITIES YOUTH MENTAL HEALTH.pdf`
+- **이해연 교수 실라버스**: `03references/papers/Syll_Lab in SocEd Interventions_Sem2-2023 Final.pdf`
 
-### 💬 Project Records
+### 💬 프로젝트 기록
 
-- **Faculty Emails**: `02communications/emails.md`
-- **Meeting Notes**: `02communications/데이터-회의록.md`
-- **Project Summary**: `01summaries/veritas_research_plan_summary.md`
+- **참여 교수진 이메일**: `02communications/emails.md`
+- **회의록**: `02communications/데이터-회의록.md`
+- **프로젝트 요약본**: `01summaries/veritas_research_plan_summary.md`
 
-### 📋 Application Forms
+### 📋 공모 양식
 
 - **공모 안내**: `04application_guideline/붙임1_공모안내문.pdf`
 - **양식 (HWP)**: `04application_guideline/붙임2_연구개발계획서.hwp`
 
 ---
 
-## Project Overview
+## 프로젝트 개요
 
-This repository contains materials for the **Veritas Lecture 2 (베리타스 강좌 2)** course development project at Seoul National University. The project focuses on developing an interdisciplinary course on understanding humans through integrated approaches combining neuroscience, clinical psychology, and developmental psychology.
+이 저장소는 서울대학교 **베리타스 강좌 2** 교과목 개발 프로젝트를 위한 자료를 담고 있습니다. 본 프로젝트는 뇌과학, 임상심리학, 발달심리학을 통합하여 인간을 다층적으로 이해하는 학제 간 교육과정 개발에 집중합니다.
 
-**Project Name**: 『Veritas Lecture 2: Understanding Humans Through Interdisciplinary Lens』
-**Duration**: 2025-06-01 ~ 2025-10-31 (5 months)
-**Budget**: 20,000,000 KRW
-**Principal Investigator**: Professor Lee Hae-yeon (Psychology Department)
-**Participating Faculty**:
+**프로젝트명**: 『베리타스 강좌 2: 뇌과학-심리학-언어인지과학으로 본 인간의 이해』
+**연구 기간**: 2025년 6월 1일 ~ 2025년 10월 31일 (5개월)
+**예산**: 20,000,000원
+**책임연구자**: 차지욱 교수 (심리학과)
+**참여 교수진**:
 
-- Professor Kim Hyang-sook (Clinical Psychology)
-- Professor Cha Ji-wook (Neuroscience)
-- Professor Jeon Hyeon-ae (Language & Cognitive Science)
+- 이해연 교수 (발달심리학)
+- 김향숙 교수 (임상심리학)
+- 전현애 교수 (언어 및 뇌인지과학)
 
-## Repository Structure
+## 저장소 구조
 
-### Core Documents
+### 핵심 문서
 
-**Research Plans & Proposals**
+**연구 계획 및 제안서**
 
-- `_연구개발계획서.docx` - Main research development proposal (current version)
-- `_연구개발계획서_backup_before_jeon.docx` - Backup before Prof. Jeon's participation
-- `_연구개발계획서_extracted.txt` - Extracted text from proposal document
-- `초본-연구계획서.pdf/txt` - Initial research plan draft
-- `veritas_research_plan_summary.md` - Comprehensive summary incorporating all updates
+- `_연구개발계획서_v8_전생애최종본.md` - 메인 연구 개발 계획서 (현재 최신 버전)
+- `veritas_research_plan_summary.md` - 모든 업데이트가 반영된 종합 요약본
 
-**Communication & Planning**
+**커뮤니케이션 및 기획**
 
-- `emails.md` - Email correspondence with participating faculty
-- `데이터-회의록.md` - Meeting notes from April 2025 planning session
+- `emails.md` - 참여 교수진과의 이메일 교신 내용
+- `데이터-회의록.md` - 2025년 4월 기획 세션 회의록
 
-**Reference Materials**
+**참고 자료**
 
-- `PAPER-Lancet youth mental health (2024).pdf/txt` - Lancet Commission report on youth mental health
-- `PAPER-CITIES YOUTH MENTAL HEALTH.pdf/txt` - Nature paper on urban youth mental health interventions
-- `doc_tables.txt` - Extracted tables and structured data from documents
-
-**Supporting Materials**
-
-- `지원서류/` - Application materials and templates
-
-## Project Architecture
-
-### Curriculum Design (15-Week Modular Structure)
-
-**Module 1 (Weeks 1-2)**: Interdisciplinary Foundations
-
-- Brain-Mind-Behavior Integration Theory
-- Introduction to neuroscience, clinical psychology, developmental perspectives
-
-**Module 2 (Weeks 3-4)**: Adolescent Brain Development
-
-- Executive function and prefrontal cortex maturation
-- Neurobiological mechanisms of decision-making
-
-**Module 3 (Weeks 5-6)**: Language, Cognition & Meaning Construction
-
-- Hierarchical rule learning and statistical learning
-- Time perception experiments
-- Narrative-based resilience training
-- Led by Prof. Jeon (language/cognitive science)
-
-**Module 4 (Weeks 7-8)**: Sociocultural Context
-
-- Korean youth mental health statistics and analysis
-- Social-emotional factors specific to Korean context
-
-**Module 5 (Weeks 9-10)**: Clinical Perspectives
-
-- Depression, anxiety, ADHD integration
-- Evidence-based intervention approaches
-
-**Module 6 (Weeks 11-12)**: Digital & AI Environment
-
-- Impact of digital technology on youth mental health
-- AI-assisted mental health monitoring and intervention
-
-**Module 7 (Weeks 13-14)**: Data-Driven Intervention Design
-
-- LLM-based text analysis
-- Multi-modal data integration
-- Policy proposal development
-
-**Module 8 (Week 15)**: Final Project Integration
-
-- Student research presentations
-- Community validation and feedback
-
-### Teaching Approach
-
-**Team-Teaching Model**: All faculty collaborate weekly with complementary perspectives
-**Student-Centered Learning**:
-
-- Flip learning with 15-20 minute didactic lectures
-- Data-driven problem discovery and analysis
-- Project-based collaborative learning
-- Community engagement and field experience
-
-**Evaluation Components**:
-
-- Weekly reflection assignments
-- Data analysis tasks
-- Team project mid-term presentation
-- Final integrated research project
-
-## Key Research Themes
-
-### Existential Topics Framework
-
-1. **Life & Death**: Meaning-making, mortality awareness, suicide prevention
-2. **Connection & Loneliness**: Social relationships in digital age
-3. **Success & Anxiety**: Achievement pressure, stress management
-4. **Learning & Growth**: Educational environment impact on mental health
-5. **Self & Community**: Identity development, social responsibility
-6. **Meaning & Values**: Value formation, moral development
-7. **Empathy & Violence**: Empathy cultivation, aggression prevention
-
-### Methodological Integration
-
-- **Neuroscience**: fMRI data analysis, brain development metrics
-- **Clinical Psychology**: Assessment tools, therapeutic interventions
-- **Developmental Psychology**: Longitudinal data, educational programs
-- **Cognitive Science**: Sequential learning, temporal perception, language processing
-- **Data Science**: LLM text analysis, behavioral experiments, multi-modal integration
-
-## Budget Allocation (20,000,000 KRW)
-
-- Research allowances: 10,000,000 KRW (PI + 3 faculty)
-- Research materials: 7,000,000 KRW (AR/VR equipment, biosensors, tablets, software)
-- Research activities: 2,250,000 KRW (meetings, site visits)
-- Graduate assistant: 1,000,000 KRW (1 person × 5 months)
-
-## External Research Integration
-
-### Lancet Commission (2024) Insights
-
-- Global youth mental health crisis (ages 12-25)
-- Socioeconomic instability, digital stress, climate anxiety
-- Prevention and early intervention models
-- Integrated into existential themes and case studies
-
-### Nature Cities Paper (2024) Insights
-
-- Urban design for youth mental health
-- Safe public spaces, participatory decision-making
-- Multi-level interventions
-- Applied to community partnership projects
-
-### Prof. Jeon's Research Contributions
-
-- Prefrontal hierarchical processing
-- Statistical learning and executive function interaction
-- Neural plasticity with expertise development
-- Time perception variability
-- Applications: Narrative resilience training, sequential learning diagnostics, LLM language analysis
-
-### April 2025 Meeting Insights
-
-- Social-emotional research gap identified
-- AI-based learning tool development needs
-- Student research methodology training demand
-- Practical collaboration in data-driven modules
-
-## Timeline & Deliverables
-
-**Application Period**: 2025-04-01 ~ 2025-05-01
-**Selection Announcement**: End of May 2025
-**Development Period**: 2025-06-01 ~ 2025-10-31
-**Course Proposal Submission**: 2025-10-01
-**Final Report**: 2025-11-28
-**Course Launch**: 2026 Spring Semester (or as agreed)
-
-### Development Phases
-
-1. Literature review and theoretical framework (June)
-2. Module design and teaching materials (July-August)
-3. Assessment tools and partnership building (September)
-4. Final integration and documentation (October)
-
-## Key Constraints & Considerations
-
-### Ethical & Compliance
-
-- IRB approval required for data collection (digital phenotyping, wearables, language data)
-- Privacy protection protocols for multi-modal data
-- LLM analysis bias checking
-- Student psychological safety measures (counseling linkage, debriefing sessions)
-
-### Infrastructure Requirements
-
-- AR/VR equipment procurement/rental
-- Biosensors and measurement devices
-- Language experiment equipment
-- Eye-tracking and behavioral experiment setup
-- Software subscriptions for analysis tools
-
-### Partnership Development
-
-- Seoul area middle/high schools
-- National Children's Museum
-- Community mental health centers
-- MOUs and scheduling coordination
-- Backup partner list maintenance
-
-### Course Operations
-
-- Enrollment: 60-120 students
-- Teaching assistant: 1 per 20 students
-- Discussion sections with max 20 students
-- Team-teaching credit recognition
-- Grading options: Standard or S/U
-- Minimum offering: Once per year for 4 semesters
-
-## Faculty Roles
-
-**Prof. Lee Hae-yeon (PI)**:
-
-- Overall curriculum integration
-- Developmental psychology perspective
-- Project mentoring and coordination
-- School/community partnership management
-
-**Prof. Kim Hyang-sook**:
-
-- Clinical psychology and therapeutic approaches
-- Youth mental health policy experience
-- Practical intervention design
-
-**Prof. Cha Ji-wook**:
-
-- Neuroscience foundations
-- Brain imaging data analysis
-- Empathy and violence research leadership
-
-**Prof. Jeon Hyeon-ae**:
-
-- Language, cognition, and time perception modules
-- Hierarchical rule learning and meaning construction
-- LLM and advanced neuroimaging analysis
-- Data-driven learning activities supervision
-
-## Working with This Repository
-
-### Document Hierarchy
-
-The most authoritative documents are:
-
-1. `veritas_research_plan_summary.md` - Comprehensive integrated plan
-2. `_연구개발계획서.docx` - Current official proposal
-3. `emails.md` - Faculty communication and agreements
-4. Reference papers for theoretical grounding
-
-### Key Decision Points Documented
-
-- Prof. Jeon's participation adds language/cognition module (Module 3)
-- Prof. Han So-won participating in development but not teaching (conflict of interest as committee member)
-- Dr. Lee Yoon-kyung available as research assistant and guest lecturer
-- Dopamine-driven training philosophy over cortisol-driven training
-- Focus on student as scientists, policymakers, engineers, journalists
-
-### Language & Cultural Context
-
-- Primary language: Korean (한국어)
-- Target population: Korean university students (Seoul National University)
-- Cultural specificity: Korean educational pressure, competition culture, generational gaps
-- Bilingual materials: Korean for implementation, English for research dissemination
-
-## Notes for Future Iterations
-
-This is a **course development project**, not a software codebase. When working with these materials:
-
-- Respect the interdisciplinary nature: neuroscience + clinical + developmental + cognitive science
-- Maintain consistency with the approved budget and timeline
-- Preserve the student-centered, data-driven learning philosophy
-
-### Research & Knowledge Management
-
-- Prioritize information in `01summaries/notebooklm_insights/` for scientific grounding.
-- Use `scripts/sync_kb.py` to index new exports.
-- For automated syncing, refer to `scripts/notebooklm_scraper.py` (requires Playwright).
-- Original source papers should be stored in `03references/sources/`.
+- `PAPER-Lancet youth mental health (2024).pdf/txt` - 청소년 정신건강 관련 Lancet 위원회 보고서
+- `PAPER-CITIES YOUTH MENTAL HEALTH.pdf/txt` - 도시 청년 정신건강 개입에 관한 Nature 논문
+- `doc_tables.txt` - 문서에서 추출된 표 및 구조화된 데이터
 
 ---
 
-- Keep existential themes as organizing framework
-- Ensure all modules integrate team-teaching approach
-- Document IRB and ethical considerations for any data collection activities
-- Reference external research (Lancet, Nature papers) appropriately
+## 교과목 아키텍처
+
+### 교육과정 설계 (15주 모듈 구조)
+
+**모듈 1 (1-2주): 학제 간 기초**
+
+- 뇌-마음-행동 통합 이론
+- 뇌과학, 임상심리학, 발달심리학적 관점 소개
+
+**모듈 2 (3-4주): 영유아 및 아동기 발달**
+
+- 초기 실행기능 및 인지 발달
+- 애착 및 사회성 형성의 신경생물학적 기초
+
+**모듈 3 (5-6주): 언어, 인지 및 의미 구성**
+
+- 계층적 규칙 학습 및 통계적 학습
+- 시간 지각 실험 및 서사 기반 회복탄력성 훈련
+- 전현애 교수 담당 (언어/인지과학)
+
+**모듈 4 (7-8주): 청소년기 뇌 발달 및 정체성**
+
+- 전두엽 성숙과 의사결정 메커니즘
+- 청소년기 실존적 주제 및 한국적 맥락 분석
+
+**모듈 5 (9-10주): 중년기 돌봄 및 임상적 관점**
+
+- 우울, 불안, ADHD 통합 이해
+- 증거 기반 개입 및 돌봄의 심리학
+
+**모듈 6 (11-12주): 고령기 및 디지털/AI 환경**
+
+- 디지털 기술이 정신건강에 미치는 영향
+- AI 기반 정신건강 모니터링 및 개입, 고령기 인지 유지
+
+**모듈 7 (13-14주): 데이터 기반 개입 설계**
+
+- LLM 기반 텍스트 분석 및 멀티모달 데이터 통합
+- 정책 제안서 개발
+
+**모듈 8 (15주): 최종 프로젝트 통합**
+
+- 학생 연구 발표 및 지역사회 피드백
+
+### 교수법
+
+**팀 티칭 모델**: 모든 교수진이 매주 보완적인 관점으로 협력
+**학생 중심 학습**:
+
+- 15-20분 집중 강의 중심의 플립 러닝(Flip Learning)
+- 데이터 기반 문제 발견 및 분석
+- 프로젝트 기반 협력 학습(PBL) 및 현장 경험
+
+---
+
+## 핵심 연구 테마
+
+### 실존적 주제 프레임워크
+
+1. **삶과 죽음**: 의미 구성, 죽음 인식, 자살 예방
+2. **연결과 고립**: 디지털 시대의 사회적 관계
+3. **성공과 불안**: 성취 압박, 스트레스 관리
+4. **학습과 성장**: 교육 환경이 정신건강에 미치는 영향
+5. **자기와 공동체**: 정체성 발달, 사회적 책임
+6. **의미와 가치**: 가치 형성, 도덕성 발달
+7. **공감과 폭력**: 공감 능력 배양, 공격성 예방
+
+### 방법론적 통합
+
+- **뇌과학**: fMRI 데이터 분석, 뇌 발달 지표
+- **임상심리학**: 평가 도구, 치료적 개입
+- **발달심리학**: 종단 데이터, 교육 프로그램
+- **인지과학**: 순차 학습, 시간 지각, 언어 처리
+- **데이터 과학**: LLM 텍스트 분석, 행동 실험, 멀티모달 통합
+
+---
+
+## 주요 제약 및 고려 사항
+
+### 윤리 및 준수
+
+- 데이터 수집 시 IRB 승인 필수 (디지털 페노타이핑, 웨어러블, 언어 데이터 등)
+- 멀티모달 데이터 개인정보 보호 프로토콜
+- 학생 심리적 안전 조치 (상담 연계 등)
+
+### 인프라 요구사항
+
+- AR/VR 장비, 바이오센서, 분석 소프트웨어 등
+
+### 파트너십 개발
+
+- 서울 지역 중고등학교, 국립어린이과학관, 지역사회 정신건강 센터 등
+
+---
+
+## 교수진 역할
+
+**차지욱 교수 (책임연구자)**:
+
+- 교육과정 총괄 및 통합
+- 뇌과학 기초 및 신경영상 데이터 분석
+- 공감 및 폭력 연구 리더십
+
+**이해연 교수**:
+
+- 발달심리학 관점 및 교과목 설계 지원
+- 프로젝트 멘토링 및 학교/지역사회 파트너십 관리
+
+**김향숙 교수**:
+
+- 임상심리학 및 치료적 접근
+- 청소년 정신건강 정책 경험 및 개입 설계
+
+**전현애 교수**:
+
+- 언어, 인지 및 시간 지각 모듈
+- 계층적 규칙 학습 및 의미 구성
+- LLM 및 고도화된 신경영상 분석 지도
+
+---
+
+## 저장소 활용 가이드
+
+### 문서 위계
+
+가장 권위 있는 문서는 다음과 같습니다:
+
+1. `veritas_research_plan_summary.md` - 종합 통합 계획
+2. `_연구개발계획서_v8_전생애최종본.md` - 현재 공식 연구계획서
+3. `emails.md` - 교수진 협의 내용
+
+### 언어 및 문화적 맥락
+
+- 주요 언어: 한국어 (한국어)
+- 대상: 서울대학교 학부생
+- 문화적 특수성: 교육열, 경쟁 문화, 세대 갈등 고려
+- 이중 언어 활용: 실행은 한국어, 연구 결과 전파는 영어
+
+---
+
+### 연구 및 지식 관리
+
+- 과학적 근거가 필요한 질문 시 `01summaries/notebooklm_insights/`의 정보를 최우선으로 참고할 것.
+- NotebookLM에서 새로 내보낸 데이터는 `scripts/sync_kb.py`를 사용하여 인덱싱할 것.
+- 자동 동기화는 `scripts/notebooklm_scraper.py`를 참고 (Playwright 필요).
+- 원본 논문 소스는 `03references/sources/`에 저장하여 문맥 파악에 활용할 것.
+
+---
+
+## 향후 과제 및 주의사항
+
+- 본 리포지토리는 소프트웨어 코드베이스가 아닌 **교과목 개발 프로젝트**입니다.
+- 학제 간 융합 특성(뇌과학+임상+발달+인지과학)을 존중할 것.
+- 학생 중심, 데이터 기반 학습 철학을 유지할 것.
+- 실존적 테마를 조직화 프레임워크로 유지할 것.
+- 모든 모듈에서 팀 티칭 접근 방식을 통합할 것.
+- 외부 연구(Lancet, Nature 논문 등)를 적절히 인용할 것.
