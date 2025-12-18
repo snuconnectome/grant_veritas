@@ -1,0 +1,16 @@
+[
+    {
+        "title": "멀티모달 뇌-오믹스 파운데이션 모델 개발 전략 (BOM)",
+        "filename": "07_Multimodal_Brain_Omics.md",
+        "path": "/Users/jiookcha/Library/CloudStorage/OneDrive-Personal/_Documents/_그랜트/00베리타스/01summaries/notebooklm_insights/07_Multimodal_Brain_Omics.md",
+        "last_synced": "2025-12-19T08:37:17.305491",
+        "summary_snippet": "# 멀티모달 뇌-오믹스 파운데이션 모델 개발 전략 (BOM)\n\n## 1. 중심 주제\n\n- 멀티모달 뇌-오믹스 통합 파운데이션 모델 (BOM) 개발 및 활용 전략.\n\n## 2. 세부 목표 및 마일스톤\n\n- **FM 구축**: 뇌 영상 및 유전체(Omics) 데이터를 결합한 파운데이션 모델 개발.\n- **데이터 정렬**: 이종 데이터 간의 시맨틱 정렬.\n- *..."
+    },
+    {
+        "title": "AI 기술 동향 및 주요 연구 프로젝트 브리핑",
+        "filename": "06_AI_Tech_Briefing.md",
+        "path": "/Users/jiookcha/Library/CloudStorage/OneDrive-Personal/_Documents/_그랜트/00베리타스/01summaries/notebooklm_insights/06_AI_Tech_Briefing.md",
+        "last_synced": "2025-12-19T08:37:17.305545",
+        "summary_snippet": "# AI 기술 동향 및 주요 연구 프로젝트 브리핑\n\n## 1. 차세대 시각-언어 모델(VLM)의 발전\n\n- **DeepMind Flamingo**: 퓨샷 러닝(Few-shot learning) 분야에서 새로운 SOTA(State-of-the-Art) 달성.\n- **특징**: 멀티모달 정렬 기술을 통해 소량의 데이터만으로도 고도의 추론 가능.\n\n## 2. A..."
+    }
+]
